@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "CORE/Primitives",
+    "CORE/Foundations",
+    "BRANDS/EDU"
+  ]
+}

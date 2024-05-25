@@ -1,0 +1,12 @@
+{
+  "ads": {
+    "color": {
+      "background": {
+        "value": "{blue}",
+        "type": "color",
+        "parent": "BRAND/ED",
+        "oldValue": "{neutral}"
+      }
+    }
+  }
+}
