@@ -6,7 +6,9 @@
     "selectedTokenSets": {
       "CORE/Primitives": "enabled",
       "CORE/Foundations": "enabled",
-      "BRANDS/EDU": "disabled"
+      "BRANDS/BASE/Colors": "disabled",
+      "BRANDS/BASE/Typeset": "disabled",
+      "BRANDS/THEMES/Light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:17:563",
     "$figmaModeId": "17:5",
@@ -49,12 +51,6 @@
       "ads.rounded.none": "e3554dac5f8999802edfed655ba9f5a29567c641",
       "ads.rounded.sm": "98e455e321f0943eec96dbdce3553272166f108f",
       "ads.rounded.rounded": "f9751fbcb49354aa7683927d5d51bcb305332d6c",
-      "slate": "c3dbaa95baf00cc3620b323edafff1d9711aa77c",
-      "gray": "1ecb1c8fe284b3229dc1287f13a50dfd362827cf",
-      "zinc": "c3a7794fb5d048bdb1a17bfa16a2547e6e0187fa",
-      "neutral": "b91e1e4184ca83819008b5810ebb08bc7938f1a8",
-      "stone": "170aceac5eb65e41f3ed677df2d791e5e8c5e982",
-      "red": "52e2cd140dcf420b05e95470837cd852b10df57c",
       "orange": "8756b169bd61f52685a5edd1e6a33603c95a7712",
       "amber": "3f85bb7fa050f00697961fa0f3b92dd64fde4b1d",
       "yellow": "f09aa926446c78c00b633be55050f92dbc4fe578",
@@ -70,7 +66,13 @@
       "purple": "4de724b5be4f2a762d8871ab49e9f3c58f68ef02",
       "fuchsia": "870874ed28c78f9c9c771210b8c6ac6d3b1e7cb5",
       "pink": "5715b5fbda06233cdf42bb30051a55bea24216ca",
-      "rose": "acdbbf9767ec4ecf88fcd06448d9a51a5a80456b"
+      "rose": "acdbbf9767ec4ecf88fcd06448d9a51a5a80456b",
+      "ads.color.slate": "c3dbaa95baf00cc3620b323edafff1d9711aa77c",
+      "ads.color.gray": "1ecb1c8fe284b3229dc1287f13a50dfd362827cf",
+      "ads.color.zinc": "c3a7794fb5d048bdb1a17bfa16a2547e6e0187fa",
+      "ads.color.neutral": "b91e1e4184ca83819008b5810ebb08bc7938f1a8",
+      "ads.color.stone": "170aceac5eb65e41f3ed677df2d791e5e8c5e982",
+      "ads.color.red": "52e2cd140dcf420b05e95470837cd852b10df57c"
     },
     "group": "CORE"
   },
@@ -79,13 +81,13 @@
     "name": "EDU",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "BRANDS/EDU": "enabled"
+      "BRANDS/BASE/Colors": "enabled",
+      "BRANDS/BASE/Typeset": "disabled",
+      "BRANDS/THEMES/Light": "disabled"
     },
     "group": "BRAND",
     "$figmaCollectionId": "VariableCollectionId:17:624",
     "$figmaModeId": "17:6",
-    "$figmaVariableReferences": {
-      "ads.color.background": "7b459cc589e26b25068eebb00ae2136fd0bcdfab"
-    }
+    "$figmaVariableReferences": {}
   }
 ]

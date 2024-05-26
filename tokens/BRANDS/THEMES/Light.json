@@ -1,0 +1,15 @@
+{
+  "ads": {
+    "color": {
+      "background": {
+        "value": "{ads.color.white}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{ads.color.zinc}",
+        "type": "color",
+        "$extensions": {}
+      }
+    }
+  }
+}

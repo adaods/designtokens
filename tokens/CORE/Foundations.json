@@ -2,35 +2,35 @@
   "ads": {
     "rounded": {
       "none": {
-        "value": "{0}",
+        "value": "{ads.dimension.0}",
         "type": "borderRadius"
       },
       "sm": {
-        "value": "{2}",
+        "value": "{ads.dimension.2}",
         "type": "borderRadius"
       },
       "rounded": {
-        "value": "{4}",
+        "value": "{ads.dimension.4}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{6}",
+        "value": "{ads.dimension.6}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{8}",
+        "value": "{ads.dimension.8}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "{12}",
+        "value": "{ads.dimension.12}",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "{16}",
+        "value": "{ads.dimension.16}",
         "type": "borderRadius"
       },
       "3xl": {
-        "value": "{24}",
+        "value": "{ads.dimension.24}",
         "type": "borderRadius"
       },
       "full": {
@@ -90,6 +90,62 @@
       "9xl": {
         "value": "{ads.text.base}*8",
         "type": "fontSizes"
+      }
+    },
+    "modifier": {
+      "amount": {
+        "0": {
+          "value": ".12",
+          "type": "other"
+        },
+        "1": {
+          "value": ".20",
+          "type": "other"
+        },
+        "2": {
+          "value": ".32",
+          "type": "other"
+        },
+        "3": {
+          "value": ".4",
+          "type": "other"
+        },
+        "5": {
+          "value": ".5",
+          "type": "other"
+        },
+        "6": {
+          "value": ".64",
+          "type": "other"
+        },
+        "7": {
+          "value": ".72",
+          "type": "other"
+        },
+        "8": {
+          "value": ".84",
+          "type": "other"
+        },
+        "9": {
+          "value": ".92",
+          "type": "other"
+        }
+      }
+    },
+    "state": {
+      "amount": {
+        "focus": {
+          "value": "{ads.modifier.amount.0}",
+          "type": "other"
+        },
+        "selected": {
+          "value": "{ads.modifier.amount.2}",
+          "type": "other"
+        },
+        "hover": {
+          "value": "{ads.modifier.amount.2}",
+          "type": "other"
+        }
       }
     }
   }
