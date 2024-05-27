@@ -6,9 +6,7 @@
     "selectedTokenSets": {
       "CORE/Primitives": "enabled",
       "CORE/Foundations": "enabled",
-      "BRANDS/BASE/Colors": "disabled",
-      "BRANDS/BASE/Typeset": "disabled",
-      "BRANDS/THEMES/Light": "disabled"
+      "BRANDS/THEMES/LIGHT/Backgrounds": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:17:563",
     "$figmaModeId": "17:5",
@@ -70,9 +68,9 @@
       "ads.color.slate": "c3dbaa95baf00cc3620b323edafff1d9711aa77c",
       "ads.color.gray": "1ecb1c8fe284b3229dc1287f13a50dfd362827cf",
       "ads.color.zinc": "c3a7794fb5d048bdb1a17bfa16a2547e6e0187fa",
-      "ads.color.neutral": "b91e1e4184ca83819008b5810ebb08bc7938f1a8",
       "ads.color.stone": "170aceac5eb65e41f3ed677df2d791e5e8c5e982",
-      "ads.color.red": "52e2cd140dcf420b05e95470837cd852b10df57c"
+      "ads.color.red": "52e2cd140dcf420b05e95470837cd852b10df57c",
+      "ads.scheme.neutral": "b91e1e4184ca83819008b5810ebb08bc7938f1a8"
     },
     "group": "CORE"
   },
@@ -82,8 +80,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "BRANDS/BASE/Colors": "enabled",
-      "BRANDS/BASE/Typeset": "disabled",
-      "BRANDS/THEMES/Light": "disabled"
+      "BRANDS/THEMES/LIGHT/Backgrounds": "disabled"
     },
     "group": "BRAND",
     "$figmaCollectionId": "VariableCollectionId:17:624",

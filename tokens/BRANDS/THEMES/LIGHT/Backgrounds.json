@@ -1,0 +1,61 @@
+{
+  "ads": {
+    "color": {
+      "background": {
+        "value": "{ads.color.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{ads.scheme.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{ads.modifier.amount.9}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "inverted": {
+        "value": "{ads.color.zinc}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{ads.modifier.amount.7}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{ads.scheme.primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{ads.scheme.secondary}",
+        "type": "color",
+        "$extensions": {}
+      },
+      "positive": {
+        "value": "{ads.scheme.positive}",
+        "type": "color"
+      },
+      "destructive": {
+        "value": "{ads.scheme.destructive}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{ads.scheme.warning}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{ads.scheme.info}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -1,1 +1,34 @@
-{}
+{
+  "ads": {
+    "scheme": {
+      "primary": {
+        "value": "{ads.color.blue}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{ads.color.zinc}",
+        "type": "color"
+      },
+      "destructive": {
+        "value": "{ads.color.red}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{ads.color.yellow}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{ads.color.emerald}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{ads.color.sky}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{ads.color.zinc}",
+        "type": "color"
+      }
+    }
+  }
+}
