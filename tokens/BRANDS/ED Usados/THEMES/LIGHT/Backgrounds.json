@@ -2,7 +2,7 @@
   "ads": {
     "color": {
       "background": {
-        "value": "{ads.color.white}",
+        "value": "{ads.scheme.white}",
         "type": "color"
       },
       "muted": {
@@ -19,13 +19,13 @@
         }
       },
       "inverted": {
-        "value": "{ads.color.zinc}",
+        "value": "{ads.scheme.neutral}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{ads.modifier.amount.7}",
+              "value": "{ads.modifier.amount.9} ",
               "space": "hsl"
             }
           }
@@ -37,8 +37,7 @@
       },
       "secondary": {
         "value": "{ads.scheme.secondary}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "positive": {
         "value": "{ads.scheme.positive}",

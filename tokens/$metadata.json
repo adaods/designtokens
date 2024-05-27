@@ -2,8 +2,9 @@
   "tokenSetOrder": [
     "CORE/Primitives",
     "CORE/Foundations",
-    "BRANDS/BASE/Colors",
-    "BRANDS/BASE/Typeset",
-    "BRANDS/THEMES/LIGHT/Backgrounds"
+    "BRANDS/ED Usados/BASE/Colors",
+    "BRANDS/ED Usados/BASE/Typeset",
+    "BRANDS/ED Usados/THEMES/LIGHT/Backgrounds",
+    "BRANDS/ED Usados/THEMES/LIGHT/Foregrounds"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "ads": {
     "scheme": {
+      "white": {
+        "value": "{ads.color.white}",
+        "type": "color"
+      },
       "primary": {
         "value": "{ads.color.blue}",
         "type": "color"
