@@ -95,18 +95,22 @@
     "modifier": {
       "amount": {
         "0": {
-          "value": ".12",
+          "value": ".08",
           "type": "other"
         },
         "1": {
-          "value": ".20",
+          "value": ".16",
           "type": "other"
         },
         "2": {
-          "value": ".32",
+          "value": ".24",
           "type": "other"
         },
         "3": {
+          "value": ".32",
+          "type": "other"
+        },
+        "4": {
           "value": ".4",
           "type": "other"
         },
@@ -126,7 +130,7 @@
           "value": ".82",
           "type": "other"
         },
-        "9": {
+        "92": {
           "value": ".9",
           "type": "other"
         }
@@ -134,16 +138,16 @@
     },
     "state": {
       "amount": {
+        "hover": {
+          "value": "{ads.modifier.amount.1}",
+          "type": "other"
+        },
         "focus": {
           "value": "{ads.modifier.amount.0}",
           "type": "other"
         },
         "selected": {
-          "value": "{ads.modifier.amount.2}",
-          "type": "other"
-        },
-        "hover": {
-          "value": "{ads.modifier.amount.2}",
+          "value": "{ads.modifier.amount.1}",
           "type": "other"
         }
       }

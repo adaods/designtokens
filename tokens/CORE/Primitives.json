@@ -3,248 +3,143 @@
     "dimension": {
       "0": {
         "value": "0px",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "1": {
         "value": "1px",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "2": {
         "value": "{ads.dimension.4}/2",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "4": {
         "value": "0.25rem",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "6": {
         "value": "{ads.dimension.4}*1.5",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "8": {
         "value": "{ads.dimension.4}*2",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "10": {
         "value": "{ads.dimension.4}*2.5",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "12": {
         "value": "{ads.dimension.4}*3",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "14": {
         "value": "{ads.dimension.4}*3.5",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "16": {
         "value": "{ads.dimension.4}*4",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "20": {
         "value": "{ads.dimension.4}*5",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "24": {
         "value": "{ads.dimension.4}*6",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "28": {
         "value": "{ads.dimension.4}*7",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "32": {
         "value": "{ads.dimension.4}*8",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "36": {
         "value": "{ads.dimension.4}*9",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "40": {
         "value": "{ads.dimension.4}*10",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "44": {
         "value": "{ads.dimension.4}*11",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "48": {
         "value": "{ads.dimension.4}*12",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "56": {
         "value": "{ads.dimension.4}*14",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "64": {
         "value": "{ads.dimension.4}*16",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "80": {
         "value": "{ads.dimension.4}*20",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "96": {
         "value": "{ads.dimension.4}*24",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "112": {
         "value": "{ads.dimension.4}*28",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "128": {
         "value": "{ads.dimension.4}*32",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "144": {
         "value": "{ads.dimension.4}*36",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "160": {
         "value": "{ads.dimension.4}*40",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "176": {
         "value": "{ads.dimension.4}*44",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "192": {
         "value": "{ads.dimension.4}*48",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "208": {
         "value": "{ads.dimension.4}*52",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "224": {
         "value": "{ads.dimension.4}*56",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "240": {
         "value": "{ads.dimension.4}*60",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "256": {
         "value": "{ads.dimension.4}*64",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "288": {
         "value": "{ads.dimension.4}*72",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "320": {
         "value": "{ads.dimension.4}*80",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       },
       "384": {
         "value": "{ads.dimension.4}*96",
-        "type": "dimension",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "dimension"
       }
     },
     "color": {
@@ -274,115 +169,67 @@
       },
       "orange": {
         "value": "#F97316",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "amber": {
         "value": "#F59E0B",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "yellow": {
         "value": "#EAB308",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "lime": {
         "value": "#84CC16",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "green": {
         "value": "#22C55E",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "emerald": {
         "value": "#10B981",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "teal": {
         "value": "#14B8A6",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "cyan": {
         "value": "#06B6D4",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "sky": {
         "value": "#0EA5E9",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "blue": {
         "value": "#3B82F6",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "indigo": {
         "value": "#6366F1",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "violet": {
         "value": "#8B5CF6",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "purple": {
         "value": "#A855F7",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "fuchsia": {
         "value": "#D946EF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "pink": {
         "value": "#EC4899",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "rose": {
         "value": "#F43F5E",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "color"
       },
       "white": {
         "value": "#ffffff",
