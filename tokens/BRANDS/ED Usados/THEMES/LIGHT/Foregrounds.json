@@ -12,11 +12,11 @@
           }
         },
         "type": "color",
-        "value": "{ads.border.neutral}"
+        "value": "{ads.color.neutral}"
       },
       "muted": {
         "type": "color",
-        "value": "{ads.border.neutral}"
+        "value": "{ads.color.neutral}"
       },
       "inverted": {
         "type": "color",
@@ -90,7 +90,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.positive}"
+          "value": "{ads.color.positive}"
         },
         "muted": {
           "$extensions": {
@@ -103,7 +103,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.positive}"
+          "value": "{ads.color.positive}"
         }
       },
       "destructive": {
@@ -118,7 +118,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.destructive}"
+          "value": "{ads.color.destructive}"
         },
         "muted": {
           "$extensions": {
@@ -131,7 +131,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.destructive}"
+          "value": "{ads.color.destructive}"
         }
       },
       "warning": {
@@ -146,7 +146,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.warning}"
+          "value": "{ads.color.warning}"
         },
         "muted": {
           "$extensions": {
@@ -159,7 +159,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.warning}"
+          "value": "{ads.color.warning}"
         }
       },
       "info": {
@@ -174,7 +174,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.info}"
+          "value": "{ads.color.info}"
         },
         "muted": {
           "$extensions": {
@@ -187,7 +187,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.border.info}"
+          "value": "{ads.color.info}"
         }
       }
     }
