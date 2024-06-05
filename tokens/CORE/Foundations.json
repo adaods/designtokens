@@ -154,6 +154,10 @@
       "disabled": {
         "type": "opacity",
         "value": ".5"
+      },
+      "enabled": {
+        "type": "opacity",
+        "value": "1"
       }
     },
     "opacity": {

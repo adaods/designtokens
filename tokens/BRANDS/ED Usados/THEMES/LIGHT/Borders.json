@@ -1,24 +1,20 @@
 {
   "ads": {
-    "color": {
-      "background": {
-        "type": "color",
-        "value": "{ads.primitive.color.white}"
-      },
-      "muted": {
+    "border": {
+      "all": {
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "{ads.modifier.amount.92}",
+              "value": "{ads.modifier.amount.7}",
               "space": "hsl"
             }
           }
         },
         "type": "color",
-        "value": "{ads.primitive.color.neutral}"
+        "value": "{ads.color.neutral}"
       },
-      "surface": {
+      "muted": {
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -29,7 +25,7 @@
           }
         },
         "type": "color",
-        "value": "{ads.primitive.color.neutral}"
+        "value": "{ads.color.neutral}"
       },
       "inverted": {
         "$extensions": {
@@ -42,43 +38,31 @@
           }
         },
         "type": "color",
-        "value": "{ads.primitive.color.neutral}"
+        "value": "{ads.color.neutral}"
       },
       "accent": {
         "type": "color",
-        "value": "{ads.brand.color.primary}"
+        "value": "{ads.color.accent}"
       },
       "neutral": {
         "type": "color",
-        "value": "{ads.primitive.color.neutral}"
+        "value": "{ads.color.neutral}"
       },
       "positive": {
         "type": "color",
-        "value": "{ads.primitive.color.emerald}"
+        "value": "{ads.color.positive}"
       },
       "destructive": {
         "type": "color",
-        "value": "{ads.primitive.color.red}"
+        "value": "{ads.color.destructive}"
       },
       "warning": {
         "type": "color",
-        "value": "{ads.primitive.color.amber}"
+        "value": "{ads.color.warning}"
       },
       "info": {
         "type": "color",
-        "value": "{ads.primitive.color.sky}"
-      }
-    },
-    "brand": {
-      "color": {
-        "primary": {
-          "type": "color",
-          "value": "{ads.primitive.color.blue}"
-        },
-        "secondary": {
-          "type": "color",
-          "value": "{ads.primitive.color.neutral}"
-        }
+        "value": "{ads.color.info}"
       }
     }
   }

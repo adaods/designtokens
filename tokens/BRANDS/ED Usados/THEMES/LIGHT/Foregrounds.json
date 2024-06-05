@@ -12,11 +12,11 @@
           }
         },
         "type": "color",
-        "value": "{ads.color.neutral}"
+        "value": "{ads.border.neutral}"
       },
       "muted": {
         "type": "color",
-        "value": "{ads.color.neutral}"
+        "value": "{ads.border.neutral}"
       },
       "inverted": {
         "type": "color",
@@ -34,7 +34,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.brand.primary}"
+          "value": "{ads.brand.color.primary}"
         },
         "muted": {
           "$extensions": {
@@ -47,7 +47,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.brand.primary}"
+          "value": "{ads.brand.color.primary}"
         }
       },
       "neutral": {
@@ -62,7 +62,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.brand.secondary}"
+          "value": "{ads.brand.color.secondary}"
         },
         "muted": {
           "$extensions": {
@@ -75,7 +75,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.brand.secondary}"
+          "value": "{ads.brand.color.secondary}"
         }
       },
       "positive": {
@@ -90,7 +90,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.positive}"
+          "value": "{ads.border.positive}"
         },
         "muted": {
           "$extensions": {
@@ -103,7 +103,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.positive}"
+          "value": "{ads.border.positive}"
         }
       },
       "destructive": {
@@ -118,7 +118,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.destructive}"
+          "value": "{ads.border.destructive}"
         },
         "muted": {
           "$extensions": {
@@ -131,7 +131,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.destructive}"
+          "value": "{ads.border.destructive}"
         }
       },
       "warning": {
@@ -146,7 +146,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.warning}"
+          "value": "{ads.border.warning}"
         },
         "muted": {
           "$extensions": {
@@ -159,7 +159,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.warning}"
+          "value": "{ads.border.warning}"
         }
       },
       "info": {
@@ -174,7 +174,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.info}"
+          "value": "{ads.border.info}"
         },
         "muted": {
           "$extensions": {
@@ -187,7 +187,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.color.info}"
+          "value": "{ads.border.info}"
         }
       }
     }
