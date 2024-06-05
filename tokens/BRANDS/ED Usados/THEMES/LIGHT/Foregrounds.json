@@ -1,42 +1,44 @@
 {
   "ads": {
-    "color": {
-      "fg": {
+    "fg": {
+      "foreground": {
+        "value": "{ads.color.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{ads.modifier.amount.6}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "muted": {
+        "value": "{ads.color.neutral}",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "{ads.color.background}",
+        "type": "color"
+      },
+      "accent": {
         "default": {
+          "value": "{ads.color.brand.primary}",
+          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.modifier.amount.6}",
+                "value": "{ads.modifier.amount.4}",
                 "space": "hsl"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.neutral}"
+          }
         },
         "muted": {
+          "value": "{ads.color.brand.primary}",
           "type": "color",
-          "value": "{ads.color.neutral}"
-        },
-        "inverted": {
-          "type": "color",
-          "value": "{ads.color.background}"
-        },
-        "accent": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.color.brand.primary}"
-        },
-        "accent-muted": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -45,11 +47,13 @@
                 "space": "hsl"
               }
             }
-          },
+          }
+        }
+      },
+      "neutral": {
+        "default": {
+          "value": "{ads.color.brand.secondary}",
           "type": "color",
-          "value": "{ads.color.brand.primary}"
-        },
-        "neutral": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -58,11 +62,11 @@
                 "space": "hsl"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.brand.secondary}"
+          }
         },
-        "neutral-muted": {
+        "muted": {
+          "value": "{ads.color.brand.secondary}",
+          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -71,11 +75,13 @@
                 "space": "hsl"
               }
             }
-          },
+          }
+        }
+      },
+      "positive": {
+        "default": {
+          "value": "{ads.color.positive}",
           "type": "color",
-          "value": "{ads.color.brand.secondary}"
-        },
-        "positive": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -84,11 +90,11 @@
                 "space": "hsl"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.positive}"
+          }
         },
-        "positive-muted": {
+        "muted": {
+          "value": "{ads.color.positive}",
+          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -97,11 +103,13 @@
                 "space": "hsl"
               }
             }
-          },
+          }
+        }
+      },
+      "destructive": {
+        "default": {
+          "value": "{ads.color.destructive}",
           "type": "color",
-          "value": "{ads.color.positive}"
-        },
-        "destructive": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -110,11 +118,11 @@
                 "space": "hsl"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.destructive}"
+          }
         },
-        "destructive-muted": {
+        "muted": {
+          "value": "{ads.color.destructive}",
+          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -123,11 +131,13 @@
                 "space": "hsl"
               }
             }
-          },
+          }
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{ads.color.warning}",
           "type": "color",
-          "value": "{ads.color.destructive}"
-        },
-        "warning": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -136,11 +146,11 @@
                 "space": "hsl"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.warning}"
+          }
         },
-        "warning-muted": {
+        "muted": {
+          "value": "{ads.color.warning}",
+          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -149,11 +159,13 @@
                 "space": "hsl"
               }
             }
-          },
+          }
+        }
+      },
+      "info": {
+        "default": {
+          "value": "{ads.color.info}",
           "type": "color",
-          "value": "{ads.color.warning}"
-        },
-        "info": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -162,11 +174,11 @@
                 "space": "lch"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.info}"
+          }
         },
-        "info-muted": {
+        "muted": {
+          "value": "{ads.color.info}",
+          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -175,9 +187,7 @@
                 "space": "hsl"
               }
             }
-          },
-          "type": "color",
-          "value": "{ads.color.info}"
+          }
         }
       }
     }
