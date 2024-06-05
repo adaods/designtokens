@@ -2,8 +2,6 @@
   "ads": {
     "fg": {
       "foreground": {
-        "value": "{ads.color.neutral}",
-        "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -12,20 +10,20 @@
               "space": "hsl"
             }
           }
-        }
+        },
+        "type": "color",
+        "value": "{ads.color.neutral}"
       },
       "muted": {
-        "value": "{ads.color.neutral}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.color.neutral}"
       },
       "inverted": {
-        "value": "{ads.color.background}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.color.background}"
       },
       "accent": {
         "default": {
-          "value": "{ads.color.brand.primary}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -34,11 +32,11 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.brand.primary}"
         },
         "muted": {
-          "value": "{ads.color.brand.primary}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -47,13 +45,13 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.brand.primary}"
         }
       },
       "neutral": {
         "default": {
-          "value": "{ads.color.brand.secondary}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -62,11 +60,11 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.brand.secondary}"
         },
         "muted": {
-          "value": "{ads.color.brand.secondary}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -75,13 +73,13 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.brand.secondary}"
         }
       },
       "positive": {
         "default": {
-          "value": "{ads.color.positive}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -90,11 +88,11 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.positive}"
         },
         "muted": {
-          "value": "{ads.color.positive}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -103,13 +101,13 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.positive}"
         }
       },
       "destructive": {
         "default": {
-          "value": "{ads.color.destructive}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -118,11 +116,11 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.destructive}"
         },
         "muted": {
-          "value": "{ads.color.destructive}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -131,13 +129,13 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.destructive}"
         }
       },
       "warning": {
         "default": {
-          "value": "{ads.color.warning}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -146,11 +144,11 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.warning}"
         },
         "muted": {
-          "value": "{ads.color.warning}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -159,13 +157,13 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.warning}"
         }
       },
       "info": {
         "default": {
-          "value": "{ads.color.info}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -174,11 +172,11 @@
                 "space": "lch"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.info}"
         },
         "muted": {
-          "value": "{ads.color.info}",
-          "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -187,7 +185,9 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.color.info}"
         }
       }
     }

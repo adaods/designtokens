@@ -2,12 +2,10 @@
   "ads": {
     "color": {
       "background": {
-        "value": "{ads.primitive.color.white}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.white}"
       },
       "muted": {
-        "value": "{ads.primitive.color.neutral}",
-        "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -16,11 +14,11 @@
               "space": "hsl"
             }
           }
-        }
+        },
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
       "surface": {
-        "value": "{ads.primitive.color.neutral}",
-        "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -29,11 +27,11 @@
               "space": "hsl"
             }
           }
-        }
+        },
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
       "inverted": {
-        "value": "{ads.primitive.color.neutral}",
-        "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -42,40 +40,42 @@
               "space": "hsl"
             }
           }
-        }
+        },
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
       "accent": {
-        "value": "{ads.color.brand.primary}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.color.brand.primary}"
       },
       "neutral": {
-        "value": "{ads.primitive.color.neutral}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
       "positive": {
-        "value": "{ads.primitive.color.emerald}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.emerald}"
       },
       "destructive": {
-        "value": "{ads.primitive.color.red}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.red}"
       },
       "warning": {
-        "value": "{ads.primitive.color.amber}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.amber}"
       },
       "info": {
-        "value": "{ads.primitive.color.sky}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.sky}"
       },
       "brand": {
         "primary": {
-          "value": "{ads.primitive.color.blue}",
-          "type": "color"
+          "type": "color",
+          "value": "{ads.primitive.color.blue}"
         },
         "secondary": {
-          "value": "{ads.primitive.color.neutral}",
-          "type": "color"
+          "type": "color",
+          "value": "{ads.primitive.color.neutral}"
         }
       }
     }
