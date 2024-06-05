@@ -1,37 +1,82 @@
 {
   "ads": {
-    "scheme": {
-      "white": {
-        "value": "{ads.color.white}",
-        "type": "color"
+    "color": {
+      "background": {
+        "type": "color",
+        "value": "{ads.primitive.color.white}"
       },
-      "primary": {
-        "value": "{ads.color.blue}",
-        "type": "color"
+      "muted": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{ads.modifier.amount.92}",
+              "space": "hsl"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
-      "secondary": {
-        "value": "{ads.color.zinc}",
-        "type": "color"
+      "surface": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{ads.modifier.amount.8}",
+              "space": "hsl"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
-      "destructive": {
-        "value": "{ads.color.red}",
-        "type": "color"
+      "inverted": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{ads.modifier.amount.92} ",
+              "space": "hsl"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
       },
-      "warning": {
-        "value": "{ads.color.yellow}",
-        "type": "color"
-      },
-      "positive": {
-        "value": "{ads.color.emerald}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{ads.color.sky}",
-        "type": "color"
+      "accent": {
+        "type": "color",
+        "value": "{ads.color.brand.primary}"
       },
       "neutral": {
-        "value": "{ads.color.zinc}",
-        "type": "color"
+        "type": "color",
+        "value": "{ads.primitive.color.neutral}"
+      },
+      "positive": {
+        "type": "color",
+        "value": "{ads.primitive.color.emerald}"
+      },
+      "destructive": {
+        "type": "color",
+        "value": "{ads.primitive.color.red}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{ads.primitive.color.amber}"
+      },
+      "info": {
+        "type": "color",
+        "value": "{ads.primitive.color.sky}"
+      },
+      "brand": {
+        "primary": {
+          "type": "color",
+          "value": "{ads.primitive.color.blue}"
+        },
+        "secondary": {
+          "type": "color",
+          "value": "{ads.primitive.color.neutral}"
+        }
       }
     }
   }
