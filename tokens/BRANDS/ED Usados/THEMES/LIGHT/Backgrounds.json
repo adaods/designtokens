@@ -11,7 +11,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.hover}",
+                "value": "0.024",
                 "space": "hsl"
               }
             }
@@ -24,7 +24,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.selected}",
+                "value": "0.048",
                 "space": "hsl"
               }
             }
@@ -37,7 +37,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.focus}",
+                "value": "0.064",
                 "space": "hsl"
               }
             }
@@ -56,7 +56,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.hover}",
+                "value": "0.024",
                 "space": "hsl"
               }
             }
@@ -69,7 +69,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.selected}",
+                "value": "0.048",
                 "space": "hsl"
               }
             }
@@ -82,7 +82,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.focus}",
+                "value": "0.064",
                 "space": "hsl"
               }
             }
@@ -101,7 +101,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.hover}",
+                "value": "0.024",
                 "space": "hsl"
               }
             }
@@ -114,7 +114,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.selected}",
+                "value": "0.048",
                 "space": "hsl"
               }
             }
@@ -127,7 +127,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{ads.state.amount.focus}",
+                "value": "0.064",
                 "space": "hsl"
               }
             }

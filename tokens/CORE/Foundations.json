@@ -130,9 +130,14 @@
           "type": "other",
           "value": ".82"
         },
-        "92": {
+        "9": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
+          },
           "type": "other",
-          "value": ".9"
+          "value": "0.92"
         }
       }
     },
