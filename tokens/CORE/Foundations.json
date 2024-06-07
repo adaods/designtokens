@@ -96,39 +96,39 @@
       "amount": {
         "0": {
           "type": "other",
-          "value": ".06"
+          "value": "0.024"
         },
         "1": {
           "type": "other",
-          "value": ".12"
+          "value": "0.048"
         },
         "2": {
           "type": "other",
-          "value": ".20"
+          "value": "0.064"
         },
         "3": {
           "type": "other",
-          "value": ".32"
+          "value": "0.12"
         },
         "4": {
           "type": "other",
-          "value": ".4"
+          "value": "0.24"
         },
         "5": {
           "type": "other",
-          "value": ".5"
+          "value": "0.48"
         },
         "6": {
           "type": "other",
-          "value": ".64"
+          "value": "0.64"
         },
         "7": {
           "type": "other",
-          "value": ".72"
+          "value": "0.72"
         },
         "8": {
           "type": "other",
-          "value": ".82"
+          "value": "0.80"
         },
         "9": {
           "$extensions": {
@@ -137,7 +137,7 @@
             }
           },
           "type": "other",
-          "value": "0.92"
+          "value": "0.88"
         }
       }
     },
@@ -145,15 +145,15 @@
       "amount": {
         "hover": {
           "type": "other",
-          "value": "{ads.modifier.amount.0}"
+          "value": "{ads.modifier.amount.2}"
         },
         "selected": {
           "type": "other",
-          "value": "{ads.modifier.amount.2}"
+          "value": "{ads.modifier.amount.3}"
         },
         "focus": {
           "type": "other",
-          "value": "{ads.modifier.amount.1}"
+          "value": "{ads.modifier.amount.4}"
         }
       },
       "disabled": {
@@ -163,6 +163,22 @@
       "enabled": {
         "type": "opacity",
         "value": "1"
+      },
+      "neutral": {
+        "amount": {
+          "hover": {
+            "type": "other",
+            "value": "{ads.modifier.amount.0}"
+          },
+          "selected": {
+            "type": "other",
+            "value": "{ads.modifier.amount.1}"
+          },
+          "focus": {
+            "type": "other",
+            "value": "{ads.modifier.amount.2}"
+          }
+        }
       }
     },
     "opacity": {
@@ -290,6 +306,66 @@
       "7xl": {
         "type": "spacing",
         "value": "{ads.dimension.80}"
+      }
+    },
+    "font": {
+      "sans": {
+        "inter": {
+          "type": "fontFamilies",
+          "value": "Inter"
+        },
+        "raleway": {
+          "type": "fontFamilies",
+          "value": "Raleway"
+        }
+      },
+      "serif": {
+        "georgia": {
+          "type": "fontFamilies",
+          "value": "Georgia"
+        }
+      },
+      "mono": {
+        "jetbrains": {
+          "type": "fontFamilies",
+          "value": "JetBrains Mono"
+        }
+      },
+      "thin": {
+        "type": "fontWeights",
+        "value": "Thin"
+      },
+      "extralight": {
+        "type": "fontWeights",
+        "value": "Extra Light"
+      },
+      "light": {
+        "type": "fontWeights",
+        "value": "Light"
+      },
+      "regular": {
+        "type": "fontWeights",
+        "value": "Regular"
+      },
+      "medium": {
+        "type": "fontWeights",
+        "value": "Medium"
+      },
+      "semibold": {
+        "type": "fontWeights",
+        "value": "Semi Bold"
+      },
+      "bold": {
+        "type": "fontWeights",
+        "value": "Bold"
+      },
+      "extrabold": {
+        "type": "fontWeights",
+        "value": "Extra Bold"
+      },
+      "black": {
+        "type": "fontWeights",
+        "value": "Black"
       }
     }
   }
