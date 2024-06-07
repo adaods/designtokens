@@ -134,7 +134,20 @@
       "ads.padding.4xl": "9a2ef80018a4fb54aa674327220a7209052d41dd",
       "ads.padding.5xl": "7982cfc164c1610f986198a6c1198b8e36e02f66",
       "ads.padding.6xl": "afb39c2ef048e4d0ddd9d62bef4f77ebbf4746e9",
-      "ads.padding.7xl": "87f351538bdca8cd6176c5757a1fb7520bbf2199"
+      "ads.padding.7xl": "87f351538bdca8cd6176c5757a1fb7520bbf2199",
+      "ads.font.sans.inter": "372c45cca9b4496fd01eb7dfbdfaa36768e4e488",
+      "ads.font.sans.raleway": "0654f608737bff98e7941a6f0c7cb9bda19bdd32",
+      "ads.font.serif.georgia": "3175e76dae4cd8a4f67ca7312e280848cf2aa359",
+      "ads.font.mono.jetbrains": "17aa914a03651772bad1edf936087d3d1f751433",
+      "ads.font.thin": "856a97deb2388595ef80d71ad22512da443885b6",
+      "ads.font.extralight": "c8b85795f31421170d8f99e4124e6437482d0d6e",
+      "ads.font.light": "abb464bdaae6d64eab303b9c001a5af16b7e3070",
+      "ads.font.regular": "d3dfd29db8ee219c1c6170a906705ab673201286",
+      "ads.font.medium": "dc473aa555a6a397561f50458a77466f275afc41",
+      "ads.font.semibold": "7736e2594319bf9cfa8e2209a8f6d32d105e0009",
+      "ads.font.bold": "e4e6b13333757e2b998d25e1d7317f44cd24ab63",
+      "ads.font.extrabold": "b8b85763f60cbdaef4c2a58889b10b31ca959e22",
+      "ads.font.black": "33c2e47661fc60912b6c50ac574a401ff9a37043"
     },
     "group": "FOUNDATION"
   },

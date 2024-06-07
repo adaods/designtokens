@@ -1,1 +1,25 @@
-{}
+{
+  "ads": {
+    "font-family": {
+      "inter": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
+        "type": "fontFamilies",
+        "value": "{ads.font.sans.inter}"
+      }
+    },
+    "display": {
+      "sm": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "{ads.font-family.inter}",
+          "fontWeight": "{ads.font.semibold}",
+          "fontSize": "{ads.text.4xl}"
+        }
+      }
+    }
+  }
+}

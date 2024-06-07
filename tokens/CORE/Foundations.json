@@ -367,6 +367,32 @@
         "type": "fontWeights",
         "value": "Black"
       }
+    },
+    "leading": {
+      "none": {
+        "type": "lineHeights",
+        "value": "100%"
+      },
+      "tight": {
+        "type": "lineHeights",
+        "value": "125%"
+      },
+      "snug": {
+        "type": "lineHeights",
+        "value": "135"
+      },
+      "normal": {
+        "type": "lineHeights",
+        "value": "150%"
+      },
+      "relaxed": {
+        "type": "lineHeights",
+        "value": "160%"
+      },
+      "loose": {
+        "type": "lineHeights",
+        "value": "200%"
+      }
     }
   }
 }
