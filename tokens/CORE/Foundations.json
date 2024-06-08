@@ -309,28 +309,6 @@
       }
     },
     "font": {
-      "sans": {
-        "inter": {
-          "type": "fontFamilies",
-          "value": "Inter"
-        },
-        "raleway": {
-          "type": "fontFamilies",
-          "value": "Raleway"
-        }
-      },
-      "serif": {
-        "georgia": {
-          "type": "fontFamilies",
-          "value": "Georgia"
-        }
-      },
-      "mono": {
-        "jetbrains": {
-          "type": "fontFamilies",
-          "value": "JetBrains Mono"
-        }
-      },
       "thin": {
         "type": "fontWeights",
         "value": "Thin"
@@ -379,7 +357,7 @@
       },
       "snug": {
         "type": "lineHeights",
-        "value": "135"
+        "value": "135%"
       },
       "normal": {
         "type": "lineHeights",
@@ -392,6 +370,16 @@
       "loose": {
         "type": "lineHeights",
         "value": "200%"
+      }
+    },
+    "font-family": {
+      "inter": {
+        "type": "fontFamilies",
+        "value": "Inter"
+      },
+      "raleway": {
+        "type": "fontFamilies",
+        "value": "Raleway"
       }
     }
   }

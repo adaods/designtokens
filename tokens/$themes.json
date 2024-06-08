@@ -135,10 +135,6 @@
       "ads.padding.5xl": "7982cfc164c1610f986198a6c1198b8e36e02f66",
       "ads.padding.6xl": "afb39c2ef048e4d0ddd9d62bef4f77ebbf4746e9",
       "ads.padding.7xl": "87f351538bdca8cd6176c5757a1fb7520bbf2199",
-      "ads.font.sans.inter": "372c45cca9b4496fd01eb7dfbdfaa36768e4e488",
-      "ads.font.sans.raleway": "0654f608737bff98e7941a6f0c7cb9bda19bdd32",
-      "ads.font.serif.georgia": "3175e76dae4cd8a4f67ca7312e280848cf2aa359",
-      "ads.font.mono.jetbrains": "17aa914a03651772bad1edf936087d3d1f751433",
       "ads.font.thin": "856a97deb2388595ef80d71ad22512da443885b6",
       "ads.font.extralight": "c8b85795f31421170d8f99e4124e6437482d0d6e",
       "ads.font.light": "abb464bdaae6d64eab303b9c001a5af16b7e3070",
@@ -147,17 +143,31 @@
       "ads.font.semibold": "7736e2594319bf9cfa8e2209a8f6d32d105e0009",
       "ads.font.bold": "e4e6b13333757e2b998d25e1d7317f44cd24ab63",
       "ads.font.extrabold": "b8b85763f60cbdaef4c2a58889b10b31ca959e22",
-      "ads.font.black": "33c2e47661fc60912b6c50ac574a401ff9a37043"
+      "ads.font.black": "33c2e47661fc60912b6c50ac574a401ff9a37043",
+      "ads.font-family.inter": "f5425092d91a1942faa012b5233d2f561e01ca43",
+      "ads.font-family.raleway": "099163bed6215538f8fa63c9f0e212c71ca6e293"
     },
     "group": "FOUNDATION"
   },
   {
     "id": "27b8c94deada17de795760d770c3c76e8f88df00",
     "name": "EDU Light",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "ads.display.sm": "S:12f37504211cb00c70e24b4bd8569ef23a4ccbad,",
+      "ads.display.md": "S:86ea3baaa5df11266804c8b588e411e4ec885944,",
+      "ads.display.lg": "S:a9ab9f3601a9f4e216a2921f03562ac5f853ef6e,",
+      "ads.display.xl": "S:9efb7d2b45b6acc2638b21a7811051a462d476c4,",
+      "ads.heading.h4": "S:e0abe508ba11f4df9a2473597744843df66f0d94,",
+      "ads.heading.h3": "S:69dadf325414d5b912a942422ded664ba94c5628,",
+      "ads.heading.h2": "S:67c27d9741b9bdbc8f024f88343f2d8530eed359,",
+      "ads.heading.h1": "S:007d0f6d6b7f81022794602295fe2360459954c1,",
+      "ads.body.sm": "S:eca579a87fcd521801ae2bb5efc4568935b35a44,",
+      "ads.body.md": "S:c2c0b8dac15b9a2d82726b6370c58af3c7c9af0d,",
+      "ads.body.lg": "S:567b5236258ce2f4443eb53ea4c51cbe8af698e2,"
+    },
     "selectedTokenSets": {
       "BRANDS/ED Usados/THEMES/LIGHT/Foregrounds": "enabled",
-      "BRANDS/ED Usados/BASE/Typeset": "source",
+      "BRANDS/ED Usados/BASE/Typeset": "enabled",
       "BRANDS/ED Usados/THEMES/LIGHT/Backgrounds": "enabled",
       "BRANDS/ED Usados/BASE/Colors": "source",
       "BRANDS/ED Usados/THEMES/LIGHT/Borders": "enabled",
@@ -230,7 +240,8 @@
       "ads.border.positive": "214ad096f0ff5649521b665b725b3fd75cb605e4",
       "ads.border.destructive": "720249836186c801c5d948bae918bc8ab0089db1",
       "ads.border.warning": "ec58317d665c82f085854504a60201b0786f0ecf",
-      "ads.border.info": "bd0bbd77faa4b9c15cedb9eb4e82fbceeba75696"
+      "ads.border.info": "bd0bbd77faa4b9c15cedb9eb4e82fbceeba75696",
+      "ads.font.sans.inter": "68ebdafa7112d81b17cd84e1aa696ad493c4d939"
     },
     "group": "BRAND"
   }
