@@ -141,7 +141,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.state.amount.hover}",
+                "value": "{ads.state.neutral.amount.hover}",
                 "space": "hsl"
               }
             }
@@ -154,7 +154,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.state.amount.selected}",
+                "value": "{ads.state.neutral.amount.selected}",
                 "space": "hsl"
               }
             }
@@ -167,7 +167,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.state.amount.focus}",
+                "value": "{ads.state.neutral.amount.focus}",
                 "space": "hsl"
               }
             }
