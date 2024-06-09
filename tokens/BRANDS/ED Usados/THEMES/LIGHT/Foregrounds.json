@@ -18,6 +18,19 @@
         "type": "color",
         "value": "{ads.color.neutral}"
       },
+      "disabled": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{ads.modifier.amount.5}",
+              "space": "lch"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{ads.color.neutral}"
+      },
       "inverted": {
         "type": "color",
         "value": "{ads.color.background}"

@@ -50,7 +50,7 @@
       },
       "neutral": {
         "type": "color",
-        "value": "{ads.primitive.color.neutral}"
+        "value": "{ads.primitive.color.zinc}"
       },
       "positive": {
         "type": "color",
@@ -77,7 +77,7 @@
         },
         "secondary": {
           "type": "color",
-          "value": "{ads.primitive.color.neutral}"
+          "value": "{ads.primitive.color.zinc}"
         }
       }
     }
