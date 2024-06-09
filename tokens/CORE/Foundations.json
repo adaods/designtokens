@@ -96,7 +96,7 @@
       "amount": {
         "0": {
           "type": "other",
-          "value": "0.024"
+          "value": "0.032"
         },
         "1": {
           "type": "other",
@@ -116,7 +116,7 @@
         },
         "5": {
           "type": "other",
-          "value": "0.48"
+          "value": "0.40"
         },
         "6": {
           "type": "other",
@@ -128,7 +128,7 @@
         },
         "8": {
           "type": "other",
-          "value": "0.80"
+          "value": "0.84"
         },
         "9": {
           "$extensions": {
@@ -137,7 +137,7 @@
             }
           },
           "type": "other",
-          "value": "0.88"
+          "value": "0.92"
         }
       }
     },
@@ -145,7 +145,7 @@
       "amount": {
         "hover": {
           "type": "other",
-          "value": "{ads.modifier.amount.2}"
+          "value": "{ads.modifier.amount.4}"
         },
         "selected": {
           "type": "other",
@@ -153,7 +153,7 @@
         },
         "focus": {
           "type": "other",
-          "value": "{ads.modifier.amount.4}"
+          "value": "{ads.modifier.amount.2}"
         }
       },
       "disabled": {

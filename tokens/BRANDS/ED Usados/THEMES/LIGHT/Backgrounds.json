@@ -11,7 +11,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.024",
+                "value": "{ads.state.neutral.amount.hover}",
                 "space": "hsl"
               }
             }
@@ -24,7 +24,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.048",
+                "value": "{ads.state.neutral.amount.selected}",
                 "space": "hsl"
               }
             }
@@ -33,11 +33,15 @@
           "value": "{ads.color.background}"
         },
         "focus": {
+          "type": "color",
+          "value": "{ads.color.background}"
+        },
+        "disabled": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.064",
+                "value": "{ads.modifier.amount.1}",
                 "space": "hsl"
               }
             }
@@ -56,7 +60,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.024",
+                "value": "{ads.state.neutral.amount.hover}",
                 "space": "hsl"
               }
             }
@@ -69,7 +73,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.048",
+                "value": "{ads.state.neutral.amount.selected}",
                 "space": "hsl"
               }
             }
@@ -78,15 +82,6 @@
           "value": "{ads.color.muted}"
         },
         "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.064",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
           "value": "{ads.color.muted}"
         }
@@ -101,7 +96,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.024",
+                "value": "{ads.state.neutral.amount.hover}",
                 "space": "hsl"
               }
             }
@@ -114,7 +109,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.048",
+                "value": "{ads.state.neutral.amount.selected}",
                 "space": "hsl"
               }
             }
@@ -127,7 +122,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.064",
+                "value": "{ads.modifier.amount.0}",
                 "space": "hsl"
               }
             }
