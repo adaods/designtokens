@@ -168,7 +168,8 @@
       "ads.label.lg": "S:b243f40a558ea7f0b6b122e07ee3d9268a90f76c,",
       "ads.label.xs": "S:36f90e5dac8aca519a188e65e0b233dc2acb1233,",
       "ads.body.xs": "S:7a16957f9d38a2b1c7e9cdc9028ac281f7bc5b7e,",
-      "ads.label.sm": "S:d9582c860ec43b679ad8e86117de51e7b09a7167,"
+      "ads.label.sm": "S:d9582c860ec43b679ad8e86117de51e7b09a7167,",
+      "ads.label.xl": "S:7bb2fa936374dd3d6a998d2697681ff5585edf63,"
     },
     "selectedTokenSets": {
       "BRANDS/ED Usados/THEMES/LIGHT/Foregrounds": "enabled",
