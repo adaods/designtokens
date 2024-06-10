@@ -152,7 +152,7 @@
         "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans.inter}",
-          "fontWeight": "{ads.font.medium}",
+          "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.xs}",
           "lineHeight": "{ads.leading.relaxed}"
         }
@@ -166,7 +166,7 @@
         "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans.inter}",
-          "fontWeight": "{ads.font.medium}",
+          "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.sm}",
           "lineHeight": "{ads.leading.relaxed}"
         }
@@ -175,7 +175,7 @@
         "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans.inter}",
-          "fontWeight": "{ads.font.medium}",
+          "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.base}",
           "lineHeight": "{ads.leading.normal}"
         }
@@ -184,7 +184,7 @@
         "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans.inter}",
-          "fontWeight": "{ads.font.medium}",
+          "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.lg}",
           "lineHeight": "{ads.leading.normal}"
         }
