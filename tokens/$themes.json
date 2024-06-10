@@ -163,7 +163,12 @@
       "ads.heading.h1": "S:007d0f6d6b7f81022794602295fe2360459954c1,",
       "ads.body.sm": "S:eca579a87fcd521801ae2bb5efc4568935b35a44,",
       "ads.body.md": "S:c2c0b8dac15b9a2d82726b6370c58af3c7c9af0d,",
-      "ads.body.lg": "S:567b5236258ce2f4443eb53ea4c51cbe8af698e2,"
+      "ads.body.lg": "S:567b5236258ce2f4443eb53ea4c51cbe8af698e2,",
+      "ads.label.md": "S:94f9d0b7cfaa820c56d1ab15cb7c594dd2329034,",
+      "ads.label.lg": "S:b243f40a558ea7f0b6b122e07ee3d9268a90f76c,",
+      "ads.label.xs": "S:36f90e5dac8aca519a188e65e0b233dc2acb1233,",
+      "ads.body.xs": "S:7a16957f9d38a2b1c7e9cdc9028ac281f7bc5b7e,",
+      "ads.label.sm": "S:d9582c860ec43b679ad8e86117de51e7b09a7167,"
     },
     "selectedTokenSets": {
       "BRANDS/ED Usados/THEMES/LIGHT/Foregrounds": "enabled",
