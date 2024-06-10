@@ -307,7 +307,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{ads.modifier.amount.8}",
+                  "value": "{ads.modifier.amount.9}",
                   "space": "lch"
                 }
               }
