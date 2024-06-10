@@ -44,6 +44,10 @@
         "type": "color",
         "value": "{ads.primitive.color.neutral}"
       },
+      "light": {
+        "type": "color",
+        "value": "{ads.primitive.color.white}"
+      },
       "accent": {
         "type": "color",
         "value": "{ads.brand.color.primary}"

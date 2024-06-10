@@ -40,6 +40,10 @@
         "type": "color",
         "value": "{ads.color.neutral}"
       },
+      "light": {
+        "type": "color",
+        "value": "{ads.color.light}"
+      },
       "accent": {
         "type": "color",
         "value": "{ads.color.accent}"
