@@ -6,6 +6,9 @@
     "BRANDS/ED Usados/BASE/Colors",
     "BRANDS/ED Usados/THEMES/LIGHT/Borders",
     "BRANDS/ED Usados/THEMES/LIGHT/Backgrounds",
-    "BRANDS/ED Usados/THEMES/LIGHT/Foregrounds"
+    "BRANDS/ED Usados/THEMES/LIGHT/Foregrounds",
+    "BRANDS/ED Usados/THEMES/DARK/Borders",
+    "BRANDS/ED Usados/THEMES/DARK/Backgrounds",
+    "BRANDS/ED Usados/THEMES/DARK/Foregrounds"
   ]
 }
