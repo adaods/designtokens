@@ -59,7 +59,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.modifier.amount.5}",
+                "value": "{ads.modifier.amount.3}",
                 "space": "hsl"
               }
             }
@@ -71,8 +71,8 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.5}",
+                "type": "lighten",
+                "value": "{ads.modifier.amount.7}",
                 "space": "hsl"
               }
             }
@@ -87,7 +87,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.modifier.amount.5}",
+                "value": "{ads.modifier.amount.3}",
                 "space": "hsl"
               }
             }
@@ -99,8 +99,8 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.5}",
+                "type": "lighten",
+                "value": "{ads.modifier.amount.8}",
                 "space": "hsl"
               }
             }
@@ -115,7 +115,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.modifier.amount.6}",
+                "value": "{ads.modifier.amount.4}",
                 "space": "hsl"
               }
             }
@@ -127,8 +127,8 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.5}",
+                "type": "lighten",
+                "value": "{ads.modifier.amount.7}",
                 "space": "hsl"
               }
             }
@@ -143,7 +143,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.modifier.amount.6}",
+                "value": "{ads.modifier.amount.3}",
                 "space": "hsl"
               }
             }
@@ -155,8 +155,8 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.5}",
+                "type": "lighten",
+                "value": "{ads.modifier.amount.7}",
                 "space": "hsl"
               }
             }
@@ -171,7 +171,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.modifier.amount.6}",
+                "value": "{ads.modifier.amount.3}",
                 "space": "hsl"
               }
             }
@@ -183,8 +183,8 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.5}",
+                "type": "lighten",
+                "value": "{ads.modifier.amount.7}",
                 "space": "hsl"
               }
             }
@@ -199,7 +199,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "{ads.modifier.amount.6}",
+                "value": "{ads.modifier.amount.3}",
                 "space": "lch"
               }
             }
@@ -211,8 +211,8 @@
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.5}",
+                "type": "lighten",
+                "value": "{ads.modifier.amount.7}",
                 "space": "hsl"
               }
             }
