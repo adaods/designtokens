@@ -5,8 +5,8 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.7}",
+              "type": "darken",
+              "value": "{ads.modifier.amount.3}",
               "space": "hsl"
             }
           }
@@ -18,8 +18,8 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.8}",
+              "type": "darken",
+              "value": "{ads.modifier.amount.5}",
               "space": "hsl"
             }
           }
@@ -41,8 +41,17 @@
         "value": "{ads.color.neutral}"
       },
       "light": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{ads.modifier.amount.9}",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
-        "value": "{ads.color.light}"
+        "value": "{ads.color.neutral}"
       },
       "accent": {
         "type": "color",
