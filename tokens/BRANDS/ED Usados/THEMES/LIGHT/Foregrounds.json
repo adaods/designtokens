@@ -31,7 +31,16 @@
         "type": "color",
         "value": "{ads.color.neutral}"
       },
-      "inverted": {
+      "white4ever": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{ads.modifier.amount.0}",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.color.background}"
       },
