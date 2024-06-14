@@ -212,53 +212,7 @@
         "value": ".72"
       }
     },
-    "gap": {
-      "0": {
-        "type": "spacing",
-        "value": "{ads.dimension.0}"
-      },
-      "xs": {
-        "type": "spacing",
-        "value": "{ads.dimension.2}"
-      },
-      "sm": {
-        "type": "spacing",
-        "value": "{ads.dimension.4}"
-      },
-      "md": {
-        "type": "spacing",
-        "value": "{ads.dimension.8}"
-      },
-      "lg": {
-        "type": "spacing",
-        "value": "{ads.dimension.16}"
-      },
-      "xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.24}"
-      },
-      "2xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.32}"
-      },
-      "3xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.40}"
-      },
-      "4xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.48}"
-      },
-      "5xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.56}"
-      },
-      "auto": {
-        "type": "spacing",
-        "value": "AUTO"
-      }
-    },
-    "padding": {
+    "spacing": {
       "0": {
         "type": "spacing",
         "value": "{ads.dimension.0}"
