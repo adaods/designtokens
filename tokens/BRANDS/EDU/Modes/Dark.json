@@ -842,6 +842,19 @@
         "type": "color",
         "value": "{ads.scheme.background}"
       },
+      "inverted": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{ads.modifier.amount.6}",
+              "space": "hsl"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{ads.scheme.neutral}"
+      },
       "accent": {
         "default": {
           "$extensions": {
