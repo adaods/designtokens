@@ -24,7 +24,7 @@
             "modify": {
               "type": "lighten",
               "value": "{ads.modifier.amount.5}",
-              "space": "lch"
+              "space": "hsl"
             }
           }
         },
@@ -191,7 +191,7 @@
               "modify": {
                 "type": "darken",
                 "value": "{ads.modifier.amount.4}",
-                "space": "lch"
+                "space": "hsl"
               }
             }
           },
