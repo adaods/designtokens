@@ -336,8 +336,8 @@
         "value": "Raleway"
       },
       "switzer": {
-        "value": "Switzer",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "value": "Switzer"
       }
     }
   }
