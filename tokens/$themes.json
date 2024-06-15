@@ -116,7 +116,7 @@
       "CORE/Primitives": "source",
       "CORE/Foundations": "source",
       "BRANDS/EDU/Modes/Light": "enabled",
-      "BRANDS/EDU/Base": "source"
+      "BRANDS/EDU/Base": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:153:1928",
     "$figmaModeId": "153:22",
@@ -242,7 +242,7 @@
       "CORE/Primitives": "source",
       "CORE/Foundations": "source",
       "BRANDS/EDU/Modes/Dark": "enabled",
-      "BRANDS/EDU/Base": "source"
+      "BRANDS/EDU/Base": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:153:1928",
     "$figmaModeId": "246:0",
