@@ -334,6 +334,10 @@
       "raleway": {
         "type": "fontFamilies",
         "value": "Raleway"
+      },
+      "switzer": {
+        "value": "Switzer",
+        "type": "fontFamilies"
       }
     }
   }
