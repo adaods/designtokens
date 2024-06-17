@@ -2,6 +2,15 @@
   "ads": {
     "scheme": {
       "background": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.primitive.color.white}"
       },

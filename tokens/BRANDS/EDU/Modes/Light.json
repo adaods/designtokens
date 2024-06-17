@@ -3,6 +3,15 @@
     "bg": {
       "background": {
         "default": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          },
           "type": "color",
           "value": "{ads.scheme.background}"
         },
@@ -52,6 +61,15 @@
       },
       "muted": {
         "default": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          },
           "type": "color",
           "value": "{ads.scheme.muted}"
         },
@@ -88,6 +106,15 @@
       },
       "surface": {
         "default": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          },
           "type": "color",
           "value": "{ads.scheme.surface}"
         },
@@ -979,26 +1006,80 @@
         "value": "{ads.scheme.light}"
       },
       "accent": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.accent}"
       },
       "neutral": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.neutral}"
       },
       "positive": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.positive}"
       },
       "destructive": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.destructive}"
       },
       "warning": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.warning}"
       },
       "info": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.info}"
       }
