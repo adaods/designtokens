@@ -256,7 +256,7 @@
           "type": "color",
           "value": "{ads.bg.accent.default}"
         },
-        "muted": {
+        "weak": {
           "default": {
             "$extensions": {
               "studio.tokens": {
@@ -281,7 +281,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.accent.muted.default}"
+            "value": "{ads.bg.accent.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -294,11 +294,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.accent.muted.default}"
+            "value": "{ads.bg.accent.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.accent.muted.default}"
+            "value": "{ads.bg.accent.weak.default}"
           }
         }
       },
@@ -355,7 +355,7 @@
           "type": "color",
           "value": "{ads.scheme.neutral}"
         },
-        "muted": {
+        "weak": {
           "default": {
             "$extensions": {
               "studio.tokens": {
@@ -380,7 +380,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.secondary.muted.default}"
+            "value": "{ads.bg.secondary.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -393,11 +393,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.secondary.muted.default}"
+            "value": "{ads.bg.secondary.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.secondary.muted.default}"
+            "value": "{ads.bg.secondary.weak.default}"
           }
         }
       },
@@ -454,7 +454,7 @@
           "type": "color",
           "value": "{ads.bg.positive.default}"
         },
-        "muted": {
+        "weak": {
           "default": {
             "$extensions": {
               "studio.tokens": {
@@ -479,7 +479,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.positive.muted.default}"
+            "value": "{ads.bg.positive.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -492,11 +492,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.positive.muted.default}"
+            "value": "{ads.bg.positive.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.positive.muted.default}"
+            "value": "{ads.bg.positive.weak.default}"
           }
         }
       },
@@ -553,7 +553,7 @@
           "type": "color",
           "value": "{ads.bg.destructive.default}"
         },
-        "muted": {
+        "weak": {
           "default": {
             "$extensions": {
               "studio.tokens": {
@@ -578,7 +578,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.destructive.muted.default}"
+            "value": "{ads.bg.destructive.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -591,11 +591,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.destructive.muted.default}"
+            "value": "{ads.bg.destructive.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.destructive.muted.default}"
+            "value": "{ads.bg.destructive.weak.default}"
           }
         }
       },
@@ -652,7 +652,7 @@
           "type": "color",
           "value": "{ads.bg.warning.default}"
         },
-        "muted": {
+        "weak": {
           "default": {
             "$extensions": {
               "studio.tokens": {
@@ -677,7 +677,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.warning.muted.default}"
+            "value": "{ads.bg.warning.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -690,11 +690,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.warning.muted.default}"
+            "value": "{ads.bg.warning.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.warning.muted.default}"
+            "value": "{ads.bg.warning.weak.default}"
           }
         }
       },
@@ -751,7 +751,7 @@
           "type": "color",
           "value": "{ads.bg.info.default}"
         },
-        "muted": {
+        "weak": {
           "default": {
             "$extensions": {
               "studio.tokens": {
@@ -776,7 +776,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.info.muted.default}"
+            "value": "{ads.bg.info.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -789,11 +789,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.info.muted.default}"
+            "value": "{ads.bg.info.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.info.muted.default}"
+            "value": "{ads.bg.info.weak.default}"
           }
         }
       }
@@ -878,7 +878,7 @@
           "type": "color",
           "value": "{ads.scheme.brand.primary}"
         },
-        "muted": {
+        "weak": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -906,7 +906,7 @@
           "type": "color",
           "value": "{ads.scheme.brand.secondary}"
         },
-        "muted": {
+        "weak": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -934,7 +934,7 @@
           "type": "color",
           "value": "{ads.scheme.positive}"
         },
-        "muted": {
+        "weak": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -962,7 +962,7 @@
           "type": "color",
           "value": "{ads.scheme.destructive}"
         },
-        "muted": {
+        "weak": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -990,7 +990,7 @@
           "type": "color",
           "value": "{ads.scheme.warning}"
         },
-        "muted": {
+        "weak": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1018,7 +1018,7 @@
           "type": "color",
           "value": "{ads.scheme.info}"
         },
-        "muted": {
+        "weak": {
           "$extensions": {
             "studio.tokens": {
               "modify": {
