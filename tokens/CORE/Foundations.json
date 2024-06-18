@@ -227,39 +227,47 @@
       },
       "md": {
         "type": "spacing",
-        "value": "{ads.dimension.8}"
+        "value": "{ads.dimension.6}"
       },
       "lg": {
         "type": "spacing",
-        "value": "{ads.dimension.16}"
+        "value": "{ads.dimension.8}"
       },
       "xl": {
         "type": "spacing",
-        "value": "{ads.dimension.24}"
+        "value": "{ads.dimension.12}"
       },
       "2xl": {
         "type": "spacing",
-        "value": "{ads.dimension.32}"
+        "value": "{ads.dimension.16}"
       },
       "3xl": {
         "type": "spacing",
-        "value": "{ads.dimension.40}"
+        "value": "{ads.dimension.20}"
       },
       "4xl": {
         "type": "spacing",
-        "value": "{ads.dimension.48}"
+        "value": "{ads.dimension.24}"
       },
       "5xl": {
         "type": "spacing",
-        "value": "{ads.dimension.56}"
+        "value": "{ads.dimension.28}"
       },
       "6xl": {
         "type": "spacing",
-        "value": "{ads.dimension.64}"
+        "value": "{ads.dimension.32}"
       },
       "7xl": {
         "type": "spacing",
-        "value": "{ads.dimension.80}"
+        "value": "{ads.dimension.36}"
+      },
+      "8xl": {
+        "type": "spacing",
+        "value": "{ads.dimension.40}"
+      },
+      "9xl": {
+        "type": "spacing",
+        "value": "{ads.dimension.48}"
       }
     },
     "font": {

@@ -139,7 +139,7 @@
       }
     },
     "heading": {
-      "h4": {
+      "sm": {
         "$extensions": {
           "studio.tokens": {
             "modify": {}
@@ -153,7 +153,7 @@
           "lineHeight": "{ads.leading.snug}"
         }
       },
-      "h3": {
+      "md": {
         "$extensions": {
           "studio.tokens": {
             "modify": {}
@@ -167,7 +167,7 @@
           "lineHeight": "{ads.leading.snug}"
         }
       },
-      "h2": {
+      "lg": {
         "$extensions": {
           "studio.tokens": {
             "modify": {}
@@ -181,7 +181,7 @@
           "lineHeight": "{ads.leading.tight}"
         }
       },
-      "h1": {
+      "xl": {
         "$extensions": {
           "studio.tokens": {
             "modify": {}

@@ -7,10 +7,6 @@
       "ads.display.md": "S:f05c7e2f08e1e50c0921cbaa5700ef74c0dcbcd2,",
       "ads.display.lg": "S:195fa8a2b7db4adfd7dbc118c0eab6aaf9cba73b,",
       "ads.display.xl": "S:6133c96635c75506cbac48c9667522dbec2b05bb,",
-      "ads.heading.h4": "S:ff5cd606c6236bde43c437606cf2de5be4af9663,",
-      "ads.heading.h3": "S:b51be390f5a9aca3cc0e50a6e3712a33591ba2b8,",
-      "ads.heading.h2": "S:48dfe34c972c717786b64cf0ec603c5b0da31e68,",
-      "ads.heading.h1": "S:287d03d2f23c2ec6384dc87d889c06714240f7e3,",
       "ads.body.sm": "S:1cbb3f8b13085b8e9ab70791f5ef89b608c22eaa,",
       "ads.body.md": "S:7f0cf8ee3351c060d2cb10435b86516566a96d56,",
       "ads.body.lg": "S:2df793c42526dff224f96255664e0d51321dded1,",
@@ -110,7 +106,11 @@
       "ads.fg.warning.default": "S:0c6f8acdd37d47665bcbf2aa41e54ac8084bd347,",
       "ads.fg.warning.muted": "S:a09e2c779afbb06cef1c9a4a8606eae9238214b3,",
       "ads.fg.info.default": "S:97a330527eab7f635cc98b91fbf2822cc73ab0f7,",
-      "ads.fg.info.muted": "S:74984cca750d398df6eb6c3c01d646d96ae90c35,"
+      "ads.fg.info.muted": "S:74984cca750d398df6eb6c3c01d646d96ae90c35,",
+      "ads.heading.sm": "S:ff5cd606c6236bde43c437606cf2de5be4af9663,",
+      "ads.heading.md": "S:b51be390f5a9aca3cc0e50a6e3712a33591ba2b8,",
+      "ads.heading.lg": "S:48dfe34c972c717786b64cf0ec603c5b0da31e68,",
+      "ads.heading.xl": "S:287d03d2f23c2ec6384dc87d889c06714240f7e3,"
     },
     "selectedTokenSets": {
       "CORE/Primitives": "source",
@@ -212,21 +212,7 @@
       "ads.border.positive": "214ad096f0ff5649521b665b725b3fd75cb605e4",
       "ads.border.destructive": "720249836186c801c5d948bae918bc8ab0089db1",
       "ads.border.warning": "ec58317d665c82f085854504a60201b0786f0ecf",
-      "ads.border.info": "bd0bbd77faa4b9c15cedb9eb4e82fbceeba75696",
-      "ads.scheme.background": "3ec6256e0fdc054a325d5580442cb0f5a0fcbc5a",
-      "ads.scheme.muted": "b1951f75359b02faaa1ac1d4578c4e2708023d44",
-      "ads.scheme.surface": "5716b2835c7aa528ad674ce2dd0483332703c14b",
-      "ads.scheme.inverted": "64008ec20cf42f5ca606d1f59f23e6f647ca9b80",
-      "ads.scheme.light": "e2592410b6866ba382da5bd67c7c5e888fecafc6",
-      "ads.scheme.accent": "4538d63c05b51fa4affc2c73eb3a84cdd35ba34e",
-      "ads.scheme.neutral": "a6d6fbd73bd0e2deb4e241fd1f3a0067a8a1fed5",
-      "ads.scheme.positive": "cfd48e954c313642711556aa0eaeac7d2a6ec871",
-      "ads.scheme.destructive": "751f945da4ae89b1ab540349c318cd7e8ff8b5b0",
-      "ads.scheme.warning": "16380ecf8adfcb8ca28052b215651294833b0c49",
-      "ads.scheme.info": "ab0ce5451483d501bdda6add06d277c7051372ea",
-      "ads.scheme.brand.primary": "5192033f68eb399d46ca8a5a24433a5d8d1eda48",
-      "ads.scheme.brand.secondary": "afda24c8f87c017b6806c4c4f25fc31e42cbc2b2",
-      "ads.font.sans.inter": "05249a643921572fa653b3b4a7153eea8fce85e5"
+      "ads.border.info": "bd0bbd77faa4b9c15cedb9eb4e82fbceeba75696"
     },
     "group": "EDU"
   },
@@ -238,10 +224,6 @@
       "ads.display.md": "S:86ea3baaa5df11266804c8b588e411e4ec885944,",
       "ads.display.lg": "S:a9ab9f3601a9f4e216a2921f03562ac5f853ef6e,",
       "ads.display.xl": "S:9efb7d2b45b6acc2638b21a7811051a462d476c4,",
-      "ads.heading.h4": "S:e0abe508ba11f4df9a2473597744843df66f0d94,",
-      "ads.heading.h3": "S:69dadf325414d5b912a942422ded664ba94c5628,",
-      "ads.heading.h2": "S:67c27d9741b9bdbc8f024f88343f2d8530eed359,",
-      "ads.heading.h1": "S:007d0f6d6b7f81022794602295fe2360459954c1,",
       "ads.body.xs": "S:7a16957f9d38a2b1c7e9cdc9028ac281f7bc5b7e,",
       "ads.body.sm": "S:eca579a87fcd521801ae2bb5efc4568935b35a44,",
       "ads.body.md": "S:c2c0b8dac15b9a2d82726b6370c58af3c7c9af0d,",
@@ -250,7 +232,11 @@
       "ads.label.sm": "S:d9582c860ec43b679ad8e86117de51e7b09a7167,",
       "ads.label.md": "S:94f9d0b7cfaa820c56d1ab15cb7c594dd2329034,",
       "ads.label.lg": "S:b243f40a558ea7f0b6b122e07ee3d9268a90f76c,",
-      "ads.label.xl": "S:7bb2fa936374dd3d6a998d2697681ff5585edf63,"
+      "ads.label.xl": "S:7bb2fa936374dd3d6a998d2697681ff5585edf63,",
+      "ads.heading.sm": "S:e0abe508ba11f4df9a2473597744843df66f0d94,",
+      "ads.heading.md": "S:69dadf325414d5b912a942422ded664ba94c5628,",
+      "ads.heading.lg": "S:67c27d9741b9bdbc8f024f88343f2d8530eed359,",
+      "ads.heading.xl": "S:007d0f6d6b7f81022794602295fe2360459954c1,"
     },
     "selectedTokenSets": {
       "CORE/Primitives": "source",
