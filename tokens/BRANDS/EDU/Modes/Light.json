@@ -796,7 +796,16 @@
       },
       "muted": {
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.scheme.neutral}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "disabled": {
         "$extensions": {
