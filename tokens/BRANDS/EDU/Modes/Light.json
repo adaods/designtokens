@@ -263,7 +263,7 @@
                 "modify": {
                   "type": "lighten",
                   "value": "{ads.modifier.amount.9}",
-                  "space": "lch"
+                  "space": "hsl"
                 }
               }
             },
@@ -362,7 +362,7 @@
                 "modify": {
                   "type": "lighten",
                   "value": "{ads.modifier.amount.9}",
-                  "space": "lch"
+                  "space": "hsl"
                 }
               }
             },
@@ -461,7 +461,7 @@
                 "modify": {
                   "type": "lighten",
                   "value": "{ads.modifier.amount.9}",
-                  "space": "lch"
+                  "space": "hsl"
                 }
               }
             },
@@ -560,7 +560,7 @@
                 "modify": {
                   "type": "lighten",
                   "value": "{ads.modifier.amount.9}",
-                  "space": "lch"
+                  "space": "hsl"
                 }
               }
             },
@@ -650,7 +650,7 @@
                 "modify": {
                   "type": "lighten",
                   "value": "{ads.modifier.amount.9}",
-                  "space": "lch"
+                  "space": "hsl"
                 }
               }
             },
@@ -740,7 +740,7 @@
                 "modify": {
                   "type": "lighten",
                   "value": "{ads.modifier.amount.9}",
-                  "space": "lch"
+                  "space": "hsl"
                 }
               }
             },
