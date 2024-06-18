@@ -286,6 +286,15 @@
       },
       "secondary": {
         "default": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          },
           "type": "color",
           "value": "{ads.scheme.neutral}"
         },
