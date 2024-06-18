@@ -152,7 +152,16 @@
       "inverted": {
         "default": {
           "type": "color",
-          "value": "{ads.scheme.inverted}"
+          "value": "{ads.scheme.inverted}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "hover": {
           "$extensions": {
@@ -165,7 +174,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.inverted}"
+          "value": "{ads.bg.inverted.default}"
         },
         "selected": {
           "$extensions": {
@@ -178,7 +187,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.inverted}"
+          "value": "{ads.bg.inverted.default}"
         },
         "focus": {
           "$extensions": {
@@ -191,7 +200,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.inverted}"
+          "value": "{ads.bg.inverted.default}"
         }
       },
       "accent": {
@@ -318,7 +327,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.bg.secondary.default}"
         },
         "selected": {
           "$extensions": {
@@ -331,7 +340,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.bg.secondary.default}"
         },
         "focus": {
           "$extensions": {
@@ -344,7 +353,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.bg.secondary.default}"
         },
         "weak": {
           "default": {
@@ -417,7 +426,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.bg.positive.default}"
         },
         "selected": {
           "$extensions": {
@@ -430,7 +439,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.bg.positive.default}"
         },
         "focus": {
           "$extensions": {
@@ -443,7 +452,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.bg.positive.default}"
         },
         "weak": {
           "default": {
@@ -516,7 +525,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.bg.destructive.default}"
         },
         "selected": {
           "$extensions": {
@@ -529,7 +538,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.bg.destructive.default}"
         },
         "focus": {
           "$extensions": {
@@ -542,7 +551,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.bg.destructive.default}"
         },
         "weak": {
           "default": {
@@ -606,7 +615,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.bg.warning.default}"
         },
         "selected": {
           "$extensions": {
@@ -619,7 +628,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.bg.warning.default}"
         },
         "focus": {
           "$extensions": {
@@ -632,7 +641,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.bg.warning.default}"
         },
         "weak": {
           "default": {
@@ -696,7 +705,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.bg.info.default}"
         },
         "selected": {
           "$extensions": {
@@ -709,7 +718,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.bg.info.default}"
         },
         "focus": {
           "$extensions": {
@@ -722,7 +731,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.bg.info.default}"
         },
         "weak": {
           "default": {
