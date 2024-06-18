@@ -197,7 +197,16 @@
       "accent": {
         "default": {
           "type": "color",
-          "value": "{ads.scheme.accent}"
+          "value": "{ads.scheme.accent}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "hover": {
           "$extensions": {
@@ -210,7 +219,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.accent}"
+          "value": "{ads.bg.accent.default}"
         },
         "selected": {
           "$extensions": {
@@ -223,7 +232,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.accent}"
+          "value": "{ads.bg.accent.default}"
         },
         "focus": {
           "$extensions": {
@@ -236,7 +245,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.accent}"
+          "value": "{ads.bg.accent.default}"
         },
         "weak": {
           "default": {
@@ -386,7 +395,16 @@
       "positive": {
         "default": {
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.scheme.positive}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "hover": {
           "$extensions": {
@@ -476,7 +494,16 @@
       "destructive": {
         "default": {
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.scheme.destructive}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "hover": {
           "$extensions": {
