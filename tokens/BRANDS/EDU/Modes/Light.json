@@ -151,8 +151,6 @@
       },
       "inverted": {
         "default": {
-          "type": "color",
-          "value": "{ads.scheme.inverted}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -161,7 +159,9 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.scheme.inverted}"
         },
         "hover": {
           "$extensions": {
@@ -205,8 +205,6 @@
       },
       "accent": {
         "default": {
-          "type": "color",
-          "value": "{ads.scheme.accent}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -215,7 +213,9 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.scheme.accent}"
         },
         "hover": {
           "$extensions": {
@@ -403,8 +403,6 @@
       },
       "positive": {
         "default": {
-          "type": "color",
-          "value": "{ads.scheme.positive}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -413,7 +411,9 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.scheme.positive}"
         },
         "hover": {
           "$extensions": {
@@ -502,8 +502,6 @@
       },
       "destructive": {
         "default": {
-          "type": "color",
-          "value": "{ads.scheme.destructive}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -512,7 +510,9 @@
                 "space": "hsl"
               }
             }
-          }
+          },
+          "type": "color",
+          "value": "{ads.scheme.destructive}"
         },
         "hover": {
           "$extensions": {
@@ -795,8 +795,6 @@
         "value": "{ads.scheme.neutral}"
       },
       "muted": {
-        "type": "color",
-        "value": "{ads.scheme.neutral}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -805,7 +803,9 @@
               "space": "hsl"
             }
           }
-        }
+        },
+        "type": "color",
+        "value": "{ads.scheme.neutral}"
       },
       "disabled": {
         "$extensions": {

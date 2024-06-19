@@ -327,7 +327,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.bg.secondary.default}"
         },
         "selected": {
           "$extensions": {
@@ -340,7 +340,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.bg.secondary.default}"
         },
         "focus": {
           "$extensions": {
@@ -353,7 +353,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.bg.secondary.default}"
         },
         "weak": {
           "default": {
@@ -1087,26 +1087,80 @@
         "value": "{ads.scheme.neutral}"
       },
       "accent": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.accent}"
       },
       "neutral": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.neutral}"
       },
       "positive": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.positive}"
       },
       "destructive": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.destructive}"
       },
       "warning": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.warning}"
       },
       "info": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "hsl"
+            }
+          }
+        },
         "type": "color",
         "value": "{ads.scheme.info}"
       }
