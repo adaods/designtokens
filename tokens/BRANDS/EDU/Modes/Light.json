@@ -846,7 +846,7 @@
         "type": "color",
         "value": "{ads.scheme.background}"
       },
-      "accent": {
+      "primary": {
         "default": {
           "$extensions": {
             "studio.tokens": {
@@ -874,7 +874,7 @@
           "value": "{ads.scheme.brand.primary}"
         }
       },
-      "neutral": {
+      "secondary": {
         "default": {
           "$extensions": {
             "studio.tokens": {
