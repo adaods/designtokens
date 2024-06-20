@@ -203,7 +203,7 @@
           "value": "{ads.bg.inverted.default}"
         }
       },
-      "accent": {
+      "primary": {
         "default": {
           "$extensions": {
             "studio.tokens": {
@@ -228,7 +228,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.bg.accent.default}"
+          "value": "{ads.bg.primary.default}"
         },
         "selected": {
           "$extensions": {
@@ -241,7 +241,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.bg.accent.default}"
+          "value": "{ads.bg.primary.default}"
         },
         "focus": {
           "$extensions": {
@@ -254,7 +254,7 @@
             }
           },
           "type": "color",
-          "value": "{ads.bg.accent.default}"
+          "value": "{ads.bg.primary.default}"
         },
         "weak": {
           "default": {
@@ -281,7 +281,7 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.accent.weak.default}"
+            "value": "{ads.bg.primary.weak.default}"
           },
           "selected": {
             "$extensions": {
@@ -294,11 +294,11 @@
               }
             },
             "type": "color",
-            "value": "{ads.bg.accent.weak.default}"
+            "value": "{ads.bg.primary.weak.default}"
           },
           "focus": {
             "type": "color",
-            "value": "{ads.bg.accent.weak.default}"
+            "value": "{ads.bg.primary.weak.default}"
           }
         }
       },
@@ -864,7 +864,7 @@
         "type": "color",
         "value": "{ads.scheme.neutral}"
       },
-      "accent": {
+      "primary": {
         "default": {
           "$extensions": {
             "studio.tokens": {
@@ -892,7 +892,7 @@
           "value": "{ads.scheme.brand.primary}"
         }
       },
-      "neutral": {
+      "secondary": {
         "default": {
           "$extensions": {
             "studio.tokens": {
