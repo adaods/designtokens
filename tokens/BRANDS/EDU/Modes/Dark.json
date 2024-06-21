@@ -396,8 +396,8 @@
             "$extensions": {
               "studio.tokens": {
                 "modify": {
-                  "type": "lighten",
-                  "value": "{ads.modifier.amount.9}",
+                  "type": "darken",
+                  "value": "{ads.modifier.amount.7}",
                   "space": "hsl"
                 }
               }
