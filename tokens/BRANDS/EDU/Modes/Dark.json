@@ -50,7 +50,7 @@
       "inverted": {
         "default": {
           "type": "color",
-          "value": "{ads.primitive.color.white}"
+          "value": "{ads.primitive.base.white}"
         },
         "hover": {
           "type": "color",
@@ -245,7 +245,7 @@
       },
       "white4ever": {
         "type": "color",
-        "value": "{ads.primitive.color.white}"
+        "value": "{ads.primitive.base.white}"
       },
       "inverted": {
         "type": "color",
@@ -326,13 +326,8 @@
         "value": "{ads.primitive.Gray.100}"
       },
       "white4ever": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "color",
-        "value": "{ads.primitive.color.white}"
+        "value": "{ads.primitive.base.white}"
       },
       "primary": {
         "type": "color",
