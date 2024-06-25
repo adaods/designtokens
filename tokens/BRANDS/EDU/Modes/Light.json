@@ -881,369 +881,126 @@
     },
     "fg": {
       "foreground": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.6}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.800}"
       },
       "muted": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.500}"
       },
       "disabled": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.5}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.400}"
       },
       "white4ever": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.0}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.background}"
+        "value": "{ads.primitive.color.white}"
       },
       "inverted": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.0}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.background}"
+        "value": "{ads.primitive.Gray.100}"
       },
       "primary": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.primary}"
+          "value": "{ads.scheme.brand.primary.700}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.primary}"
+          "value": "{ads.scheme.brand.primary.100}"
         }
       },
       "secondary": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.secondary}"
+          "value": "{ads.scheme.brand.secondary.700}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.secondary}"
+          "value": "{ads.scheme.brand.secondary.100}"
         }
       },
       "positive": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.primitive.Emerland.700}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.primitive.Emerland.100}"
         }
       },
       "destructive": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.primitive.Red.700}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.primitive.Red.100}"
         }
       },
       "warning": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.primitive.Amber.600}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.primitive.Amber.100}"
         }
       },
       "info": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.primitive.Sky.700}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.primitive.Sky.100}"
         }
       }
     },
     "border": {
       "all": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.7}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.200}"
       },
       "disabled": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.8}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.100}"
       },
       "inverted": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.9} ",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.900}"
       },
       "light": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.0}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.light}"
+        "value": "{ads.primitive.color.white}"
       },
-      "accent": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
+      "primary": {
         "type": "color",
-        "value": "{ads.scheme.accent}"
+        "value": "{ads.primitive.Blue.500}"
       },
       "neutral": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.500}"
       },
       "positive": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.positive}"
+        "value": "{ads.primitive.Emerland.500}"
       },
       "destructive": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.destructive}"
+        "value": "{ads.primitive.Red.500}"
       },
       "warning": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.warning}"
+        "value": "{ads.primitive.Amber.500}"
       },
       "info": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.info}"
+        "value": "{ads.primitive.Sky.500}"
       }
     }
   }

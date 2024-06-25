@@ -90,7 +90,6 @@
       "ads.border.disabled": "S:15f4598a8b308ff49e6d8a6b0549dd67aeac6f3d,",
       "ads.border.inverted": "S:09b36c16d1f4fc2de4960323d4377225cb32d0d3,",
       "ads.border.light": "S:f7ea1b0399c86914c5d9a4bae337f50e24be0d6a,",
-      "ads.border.accent": "S:d850c102bdb24345a128f76e6e8066897ecfe91e,",
       "ads.border.neutral": "S:5bdca8be1b54a9d1dee0b1445c19d2f204ab434e,",
       "ads.border.positive": "S:e485893a03bd49ab5a8a8d73a825ca647b1a0162,",
       "ads.border.destructive": "S:0f85a55243eb85335d0b70926068f3d687b0a102,",
@@ -198,8 +197,7 @@
       "ads.scheme.destructive": "S:d23c6002d5a622e1f1111df357a74948127cd9c2,",
       "ads.scheme.warning": "S:d3d3e72cb61afaa30d138b4af43a74e4f87ce24e,",
       "ads.scheme.info": "S:f45765f2d2ed3a2370cbfcc2978f58494f219e47,",
-      "ads.scheme.brand.primary": "S:a5a48c44b6be7017a6efc6769e18a36458878cba,",
-      "ads.scheme.brand.secondary": "S:18d023f497df5ac0755a68b9d23424a888f24743,"
+      "ads.border.primary": "S:d850c102bdb24345a128f76e6e8066897ecfe91e,"
     },
     "selectedTokenSets": {
       "CORE/Primitives": "source",
@@ -296,7 +294,6 @@
       "ads.border.disabled": "a56d88f5e9a9fa59163e3472fda58d02e5d0b006",
       "ads.border.inverted": "74210ac9ae147e31b15e44de01300a06dd08ab4e",
       "ads.border.light": "9935326641adbc91842caf653feb2d738f0f4c92",
-      "ads.border.accent": "f6de6099f89dc4be2ccb2c947651f6316b549b71",
       "ads.border.neutral": "016f49d4b4bf5bbfdead73ee42478ad6c66ad88d",
       "ads.border.positive": "f8bd61ea12bd7989e39afa8ce69fac4b6af54de7",
       "ads.border.destructive": "f3c905d77c03eee441ce295d0ae39fd7e8cc141a",
@@ -313,8 +310,6 @@
       "ads.scheme.destructive": "96911682d7515e8808a31ddcf1871344d7555443",
       "ads.scheme.warning": "86683d0605a6f93d9110d2f6c41e4220ac57ec3e",
       "ads.scheme.info": "906588e010c5a7e654d097579d2ccca9ff322c7f",
-      "ads.scheme.brand.primary": "1ab5b773565c05bcd9ce296f30ccd7260c2bcace",
-      "ads.scheme.brand.secondary": "69b5f7a266856a0a46345d7bdcc54386b224c150",
       "ads.font.sans.inter": "19a92b3d3d8c97bd60de1c22e9f9c7a482bd582a",
       "ads.rounded.none": "eba40bd7e7163d675ffb429865addcdafce2ce79",
       "ads.rounded.sm": "cb15068485cfdf93f57cd9b5e206f125b53e1cb7",
@@ -371,7 +366,8 @@
       "ads.font.black": "3083cc570fb4993c0bf873bb6ed3f8cf8afccb28",
       "ads.font-family.inter": "f9644e3dfad96b11951a9e249920c5bc1b19823f",
       "ads.font-family.raleway": "ab1236485018d524a3d571db1ccf09e14bcc147c",
-      "ads.font-family.switzer": "127877a85b21059588f0582c97c757d027b7fa6c"
+      "ads.font-family.switzer": "127877a85b21059588f0582c97c757d027b7fa6c",
+      "ads.border.primary": "f6de6099f89dc4be2ccb2c947651f6316b549b71"
     },
     "group": "EDU"
   },
@@ -492,7 +488,6 @@
       "ads.border.disabled": "a56d88f5e9a9fa59163e3472fda58d02e5d0b006",
       "ads.border.inverted": "74210ac9ae147e31b15e44de01300a06dd08ab4e",
       "ads.border.light": "9935326641adbc91842caf653feb2d738f0f4c92",
-      "ads.border.accent": "f6de6099f89dc4be2ccb2c947651f6316b549b71",
       "ads.border.neutral": "016f49d4b4bf5bbfdead73ee42478ad6c66ad88d",
       "ads.border.positive": "f8bd61ea12bd7989e39afa8ce69fac4b6af54de7",
       "ads.border.destructive": "f3c905d77c03eee441ce295d0ae39fd7e8cc141a",
@@ -509,9 +504,8 @@
       "ads.scheme.destructive": "96911682d7515e8808a31ddcf1871344d7555443",
       "ads.scheme.warning": "86683d0605a6f93d9110d2f6c41e4220ac57ec3e",
       "ads.scheme.info": "906588e010c5a7e654d097579d2ccca9ff322c7f",
-      "ads.scheme.brand.primary": "1ab5b773565c05bcd9ce296f30ccd7260c2bcace",
-      "ads.scheme.brand.secondary": "69b5f7a266856a0a46345d7bdcc54386b224c150",
-      "ads.font.sans.inter": "19a92b3d3d8c97bd60de1c22e9f9c7a482bd582a"
+      "ads.font.sans.inter": "19a92b3d3d8c97bd60de1c22e9f9c7a482bd582a",
+      "ads.border.primary": "f6de6099f89dc4be2ccb2c947651f6316b549b71"
     },
     "group": "EDU"
   }
