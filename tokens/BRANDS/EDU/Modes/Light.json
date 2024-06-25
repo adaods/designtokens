@@ -325,7 +325,12 @@
         "type": "color",
         "value": "{ads.primitive.Gray.900}"
       },
-      "light": {
+      "white4ever": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
         "type": "color",
         "value": "{ads.primitive.color.white}"
       },
