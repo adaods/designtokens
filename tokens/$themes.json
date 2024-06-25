@@ -363,8 +363,9 @@
     },
     "selectedTokenSets": {
       "CORE/Primitives": "source",
-      "CORE/Foundations": "source",
-      "BRANDS/EDU/Base": "enabled"
+      "CORE/Foundations": "enabled",
+      "BRANDS/EDU/Base": "enabled",
+      "BRANDS/EDU/Modes/Dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:153:1928",
     "$figmaModeId": "246:0",
