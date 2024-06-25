@@ -1154,6 +1154,16 @@
           "type": "color",
           "value": "#4c0519"
         }
+      },
+      "base": {
+        "white": {
+          "type": "color",
+          "value": "#ffffff"
+        },
+        "black": {
+          "type": "color",
+          "value": "#000000"
+        }
       }
     }
   }

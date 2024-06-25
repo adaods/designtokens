@@ -4,7 +4,7 @@
       "background": {
         "default": {
           "type": "color",
-          "value": "{ads.primitive.color.white}"
+          "value": "{ads.primitive.base.white}"
         },
         "hover": {
           "type": "color",
@@ -245,7 +245,7 @@
       },
       "white4ever": {
         "type": "color",
-        "value": "{ads.primitive.color.white}"
+        "value": "{ads.primitive.base.white}"
       },
       "inverted": {
         "type": "color",
@@ -315,24 +315,19 @@
     "border": {
       "all": {
         "type": "color",
-        "value": "{ads.primitive.Gray.200}"
+        "value": "{ads.primitive.Gray.300}"
       },
       "disabled": {
         "type": "color",
-        "value": "{ads.primitive.Gray.100}"
+        "value": "{ads.primitive.Gray.200}"
       },
       "inverted": {
         "type": "color",
         "value": "{ads.primitive.Gray.900}"
       },
       "white4ever": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "color",
-        "value": "{ads.primitive.color.white}"
+        "value": "{ads.primitive.base.white}"
       },
       "primary": {
         "type": "color",
