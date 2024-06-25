@@ -250,6 +250,7 @@
       "ads.border.all": "0bb5fa486e97cc6ce3e9a0fbd3924a6c897b6b1c",
       "ads.border.disabled": "a56d88f5e9a9fa59163e3472fda58d02e5d0b006",
       "ads.border.inverted": "74210ac9ae147e31b15e44de01300a06dd08ab4e",
+      "ads.border.white4ever": "9935326641adbc91842caf653feb2d738f0f4c92",
       "ads.border.primary": "f6de6099f89dc4be2ccb2c947651f6316b549b71",
       "ads.border.neutral": "016f49d4b4bf5bbfdead73ee42478ad6c66ad88d",
       "ads.border.positive": "f8bd61ea12bd7989e39afa8ce69fac4b6af54de7",
@@ -334,8 +335,7 @@
       "ads.font.black": "66f0ce28d90ebec5838947bfa4b8f3222a79e7b6",
       "ads.font-family.inter": "73d2e2974b5a0e94e2bca32f6d3f3f9cc7a78d86",
       "ads.font-family.raleway": "77469b81eba98c458aa3a6ca79ba5e0c0b35a9cb",
-      "ads.font-family.switzer": "33bb5dd12124c726ea70de764a1cc80d4f209a67",
-      "ads.border.white4ever": "9935326641adbc91842caf653feb2d738f0f4c92"
+      "ads.font-family.switzer": "33bb5dd12124c726ea70de764a1cc80d4f209a67"
     },
     "group": "EDU"
   },
@@ -343,23 +343,28 @@
     "id": "aa4ca4b9bdf127a8028489fbc735fc1c8a75babe",
     "name": "Dark",
     "$figmaStyleReferences": {
-      "ads.display.sm": "S:12f37504211cb00c70e24b4bd8569ef23a4ccbad,",
-      "ads.display.md": "S:86ea3baaa5df11266804c8b588e411e4ec885944,",
-      "ads.display.lg": "S:a9ab9f3601a9f4e216a2921f03562ac5f853ef6e,",
-      "ads.display.xl": "S:9efb7d2b45b6acc2638b21a7811051a462d476c4,",
-      "ads.body.xs": "S:7a16957f9d38a2b1c7e9cdc9028ac281f7bc5b7e,",
-      "ads.body.sm": "S:eca579a87fcd521801ae2bb5efc4568935b35a44,",
-      "ads.body.md": "S:c2c0b8dac15b9a2d82726b6370c58af3c7c9af0d,",
-      "ads.body.lg": "S:567b5236258ce2f4443eb53ea4c51cbe8af698e2,",
-      "ads.label.xs": "S:36f90e5dac8aca519a188e65e0b233dc2acb1233,",
-      "ads.label.sm": "S:d9582c860ec43b679ad8e86117de51e7b09a7167,",
-      "ads.label.md": "S:94f9d0b7cfaa820c56d1ab15cb7c594dd2329034,",
-      "ads.label.lg": "S:b243f40a558ea7f0b6b122e07ee3d9268a90f76c,",
-      "ads.label.xl": "S:7bb2fa936374dd3d6a998d2697681ff5585edf63,",
-      "ads.heading.sm": "S:e0abe508ba11f4df9a2473597744843df66f0d94,",
-      "ads.heading.md": "S:69dadf325414d5b912a942422ded664ba94c5628,",
-      "ads.heading.lg": "S:67c27d9741b9bdbc8f024f88343f2d8530eed359,",
-      "ads.heading.xl": "S:007d0f6d6b7f81022794602295fe2360459954c1,"
+      "ads.display.sm": "S:4c289037dc909901349f906ea8647da245b1770e,",
+      "ads.display.md": "S:483564abf4af9cf70f7e996355e3c2c5c8032921,",
+      "ads.display.lg": "S:03cb9dc68946cd35a6b974c811e1b2831fe7052e,",
+      "ads.display.xl": "S:013f4bf7bcef4d08d910eca480f77f5ccbf6723f,",
+      "ads.body.xs": "S:53628ca559ce83162f0297c2b87a894d6946b326,",
+      "ads.body.sm": "S:9eaefffd75aa96312db4ee60c32067591b3cb083,",
+      "ads.body.md": "S:6f1370380f257c37259cec2b1455961245f12539,",
+      "ads.body.lg": "S:053d5bf4397c94830c5fb8da44b463c044cd4af5,",
+      "ads.label.xs": "S:5dc312f87365d7af87541fe520160697f4618756,",
+      "ads.label.sm": "S:cc5a43732a5a46783be0a92b4e98a4ebb715bc85,",
+      "ads.label.md": "S:eb2e200401ce2e2c1fcdce8a59cccfa3c2a1e978,",
+      "ads.label.lg": "S:35984467f89b0ee099d83f7eb147d7a322784430,",
+      "ads.label.xl": "S:239f7161deaa30e5eaca3e14e25fb7837466f629,",
+      "ads.heading.sm": "S:da86362a0edfdb2d9dddbe46dfadb85358bb6fad,",
+      "ads.heading.md": "S:ba32a2a5e280fb49d005357515d62876a5bf8ae7,",
+      "ads.heading.lg": "S:ecdc9bc1520ce2a5bab9f616491a7787d3e7173d,",
+      "ads.heading.xl": "S:f3b693bc86077e4300c70036512719075226e89a,",
+      "ads.label.xs__alt": "S:a05ddc178ecfa27ebcb890821412bcce2969bc2e,",
+      "ads.label.sm__alt": "S:94545e5db92d56ed63723dd8c26623dadfa0d306,",
+      "ads.label.md__alt": "S:760b65c5122630f99439ed34e338b884e85e4cb5,",
+      "ads.label.lg__alt": "S:f9fa0d0bc085f2b0c39ef2a397516ed0ca51b787,",
+      "ads.label.xl__alt": "S:0630ad7c90e6bb311089eaf187cecffb93eda60f,"
     },
     "selectedTokenSets": {
       "CORE/Primitives": "source",
@@ -439,6 +444,7 @@
       "ads.border.all": "0bb5fa486e97cc6ce3e9a0fbd3924a6c897b6b1c",
       "ads.border.disabled": "a56d88f5e9a9fa59163e3472fda58d02e5d0b006",
       "ads.border.inverted": "74210ac9ae147e31b15e44de01300a06dd08ab4e",
+      "ads.border.white4ever": "9935326641adbc91842caf653feb2d738f0f4c92",
       "ads.border.primary": "f6de6099f89dc4be2ccb2c947651f6316b549b71",
       "ads.border.neutral": "016f49d4b4bf5bbfdead73ee42478ad6c66ad88d",
       "ads.border.positive": "f8bd61ea12bd7989e39afa8ce69fac4b6af54de7",
@@ -523,8 +529,7 @@
       "ads.font.black": "66f0ce28d90ebec5838947bfa4b8f3222a79e7b6",
       "ads.font-family.inter": "73d2e2974b5a0e94e2bca32f6d3f3f9cc7a78d86",
       "ads.font-family.raleway": "77469b81eba98c458aa3a6ca79ba5e0c0b35a9cb",
-      "ads.font-family.switzer": "33bb5dd12124c726ea70de764a1cc80d4f209a67",
-      "ads.border.white4ever": "9935326641adbc91842caf653feb2d738f0f4c92"
+      "ads.font-family.switzer": "33bb5dd12124c726ea70de764a1cc80d4f209a67"
     },
     "group": "EDU"
   }
