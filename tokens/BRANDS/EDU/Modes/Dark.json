@@ -3,1247 +3,355 @@
     "bg": {
       "background": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.background}"
+          "value": "{ads.primitive.Gray.950}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.background.default}"
+          "value": "{ads.primitive.Gray.900}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.background.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.background.default}"
+          "value": "{ads.primitive.Gray.800}"
         },
         "disabled": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.1}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.background.default}"
+          "value": "{ads.primitive.Gray.800}"
         }
       },
       "muted": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.muted}"
+          "value": "{ads.primitive.Gray.900}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.muted.default}"
+          "value": "{ads.primitive.Gray.800}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.muted.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.muted.default}"
+          "value": "{ads.primitive.Gray.700}"
         }
       },
       "surface": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.7}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.surface}"
+          "value": "{ads.primitive.Gray.800}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.surface.default}"
+          "value": "{ads.primitive.Gray.700}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.surface.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.surface.default}"
+          "value": "{ads.primitive.Gray.600}"
         }
       },
       "inverted": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.9}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.primitive.color.white}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.inverted.default}"
+          "value": "{ads.primitive.Gray.50}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.inverted.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.inverted.default}"
+          "value": "{ads.primitive.Gray.100}"
         }
       },
       "primary": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.0}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.accent}"
+          "value": "{ads.scheme.brand.primary.500}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.primary.default}"
+          "value": "{ads.scheme.brand.primary.400}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.primary.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.primary.default}"
+          "value": "{ads.scheme.brand.primary.600}"
         },
         "weak": {
           "default": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{ads.modifier.amount.7}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.scheme.accent}"
+            "value": "{ads.scheme.brand.primary.900}"
           },
           "hover": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.hover}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.bg.primary.weak.default}"
+            "value": "{ads.scheme.brand.primary.800}"
           },
-          "selected": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.selected}",
-                  "space": "hsl"
-                }
-              }
-            },
+          "active": {
             "type": "color",
-            "value": "{ads.bg.primary.weak.default}"
-          },
-          "focus": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.focus}",
-                  "space": "hsl"
-                }
-              }
-            },
-            "type": "color",
-            "value": "{ads.bg.primary.weak.default}"
+            "value": "{ads.scheme.brand.primary.900}"
           }
         }
       },
       "secondary": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.0}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.neutral}"
+          "value": "{ads.scheme.brand.secondary.500}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.secondary.default}"
+          "value": "{ads.scheme.brand.secondary.400}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.secondary.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.secondary.default}"
+          "value": "{ads.scheme.brand.secondary.600}"
         },
         "weak": {
           "default": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{ads.modifier.amount.7}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.scheme.neutral}"
+            "value": "{ads.scheme.brand.secondary.900}"
           },
           "hover": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.hover}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.bg.secondary.weak.default}"
+            "value": "{ads.scheme.brand.secondary.800}"
           },
-          "selected": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.selected}",
-                  "space": "hsl"
-                }
-              }
-            },
+          "active": {
             "type": "color",
-            "value": "{ads.bg.secondary.weak.default}"
-          },
-          "focus": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.focus}",
-                  "space": "hsl"
-                }
-              }
-            },
-            "type": "color",
-            "value": "{ads.bg.secondary.weak.default}"
+            "value": "{ads.scheme.brand.secondary.900}"
           }
         }
       },
       "positive": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.primitive.Emerland.500}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.positive.default}"
+          "value": "{ads.primitive.Emerland.400}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.positive.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.positive.default}"
+          "value": "{ads.primitive.Emerland.600}"
         },
         "weak": {
           "default": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{ads.modifier.amount.7}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.scheme.positive}"
+            "value": "{ads.primitive.Emerland.900}"
           },
           "hover": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.hover}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.bg.positive.weak.default}"
+            "value": "{ads.primitive.Emerland.800}"
           },
-          "selected": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.selected}",
-                  "space": "hsl"
-                }
-              }
-            },
+          "active": {
             "type": "color",
-            "value": "{ads.bg.positive.weak.default}"
-          },
-          "focus": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.focus}",
-                  "space": "hsl"
-                }
-              }
-            },
-            "type": "color",
-            "value": "{ads.bg.positive.weak.default}"
+            "value": "{ads.primitive.Emerland.900}"
           }
         }
       },
       "destructive": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.primitive.Red.500}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.destructive.default}"
+          "value": "{ads.primitive.Red.400}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.destructive.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.destructive.default}"
+          "value": "{ads.primitive.Red.600}"
         },
         "weak": {
           "default": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{ads.modifier.amount.7}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.scheme.destructive}"
+            "value": "{ads.primitive.Red.900}"
           },
           "hover": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.hover}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.bg.destructive.weak.default}"
+            "value": "{ads.primitive.Red.800}"
           },
-          "selected": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.selected}",
-                  "space": "hsl"
-                }
-              }
-            },
+          "active": {
             "type": "color",
-            "value": "{ads.bg.destructive.weak.default}"
-          },
-          "focus": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.focus}",
-                  "space": "hsl"
-                }
-              }
-            },
-            "type": "color",
-            "value": "{ads.bg.destructive.weak.default}"
+            "value": "{ads.primitive.Red.900}"
           }
         }
       },
       "warning": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.3}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.primitive.Amber.500}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.warning.default}"
+          "value": "{ads.primitive.Amber.400}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.warning.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.warning.default}"
+          "value": "{ads.primitive.Amber.600}"
         },
         "weak": {
           "default": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{ads.modifier.amount.7}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.scheme.warning}"
+            "value": "{ads.primitive.Amber.900}"
           },
           "hover": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.hover}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.bg.warning.weak.default}"
+            "value": "{ads.primitive.Amber.800}"
           },
-          "selected": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.selected}",
-                  "space": "hsl"
-                }
-              }
-            },
+          "active": {
             "type": "color",
-            "value": "{ads.bg.warning.weak.default}"
-          },
-          "focus": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.focus}",
-                  "space": "hsl"
-                }
-              }
-            },
-            "type": "color",
-            "value": "{ads.bg.warning.weak.default}"
+            "value": "{ads.primitive.Amber.900}"
           }
         }
       },
       "info": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.primitive.Sky.500}"
         },
         "hover": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.hover}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.bg.info.default}"
+          "value": "{ads.primitive.Sky.400}"
         },
-        "selected": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.selected}",
-                "space": "hsl"
-              }
-            }
-          },
+        "active": {
           "type": "color",
-          "value": "{ads.bg.info.default}"
-        },
-        "focus": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.state.neutral.amount.focus}",
-                "space": "hsl"
-              }
-            }
-          },
-          "type": "color",
-          "value": "{ads.bg.info.default}"
+          "value": "{ads.primitive.Sky.600}"
         },
         "weak": {
           "default": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "darken",
-                  "value": "{ads.modifier.amount.7}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.scheme.info}"
+            "value": "{ads.primitive.Sky.900}"
           },
           "hover": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.hover}",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
-            "value": "{ads.bg.info.weak.default}"
+            "value": "{ads.primitive.Sky.800}"
           },
-          "selected": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.selected}",
-                  "space": "hsl"
-                }
-              }
-            },
+          "active": {
             "type": "color",
-            "value": "{ads.bg.info.weak.default}"
-          },
-          "focus": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "{ads.state.neutral.amount.focus}",
-                  "space": "hsl"
-                }
-              }
-            },
-            "type": "color",
-            "value": "{ads.bg.info.weak.default}"
+            "value": "{ads.primitive.Sky.900}"
           }
         }
       }
     },
     "fg": {
       "foreground": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.9}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.50}"
       },
       "muted": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.6}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.200}"
       },
       "disabled": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.3}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.800}"
       },
       "white4ever": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.0}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.background}"
+        "value": "{ads.primitive.color.white}"
       },
       "inverted": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.6}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.800}"
       },
       "primary": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.3}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.primary}"
+          "value": "{ads.scheme.brand.primary.300}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.primary}"
+          "value": "{ads.scheme.brand.primary.950}"
         }
       },
       "secondary": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.3}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.secondary}"
+          "value": "{ads.scheme.brand.secondary.300}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.brand.secondary}"
+          "value": "{ads.scheme.brand.secondary.950}"
         }
       },
       "positive": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.4}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.primitive.Emerland.300}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.positive}"
+          "value": "{ads.primitive.Emerland.950}"
         }
       },
       "destructive": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.3}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.primitive.Red.300}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.destructive}"
+          "value": "{ads.primitive.Red.950}"
         }
       },
       "warning": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.3}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.primitive.Amber.300}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.warning}"
+          "value": "{ads.primitive.Amber.950}"
         }
       },
       "info": {
         "default": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{ads.modifier.amount.3}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.primitive.Sky.200}"
         },
         "weak": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{ads.modifier.amount.8}",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
-          "value": "{ads.scheme.info}"
+          "value": "{ads.primitive.Sky.950}"
         }
       }
     },
     "border": {
       "all": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.3}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.600}"
       },
       "disabled": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.5}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.700}"
       },
       "inverted": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{ads.modifier.amount.9} ",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.900}"
       },
       "light": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{ads.modifier.amount.9}",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.color.white}"
       },
-      "accent": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
+      "primary": {
         "type": "color",
-        "value": "{ads.scheme.accent}"
+        "value": "{ads.primitive.Blue.500}"
       },
       "neutral": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.neutral}"
+        "value": "{ads.primitive.Gray.500}"
       },
       "positive": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.positive}"
+        "value": "{ads.primitive.Emerland.500}"
       },
       "destructive": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.destructive}"
+        "value": "{ads.primitive.Red.500}"
       },
       "warning": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.warning}"
+        "value": "{ads.primitive.Amber.500}"
       },
       "info": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0",
-              "space": "hsl"
-            }
-          }
-        },
         "type": "color",
-        "value": "{ads.scheme.info}"
+        "value": "{ads.primitive.Sky.500}"
       }
     }
   }
