@@ -24,15 +24,6 @@
             "value": "#60a5fa"
           },
           "500": {
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0",
-                  "space": "hsl"
-                }
-              }
-            },
             "type": "color",
             "value": "#3b82f6"
           },

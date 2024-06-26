@@ -145,15 +145,6 @@
     "primitive": {
       "Slate": {
         "50": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0",
-                "space": "hsl"
-              }
-            }
-          },
           "type": "color",
           "value": "#f8fafc"
         },
