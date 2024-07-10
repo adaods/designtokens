@@ -5,7 +5,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "CORE/Primitives": "enabled",
-      "CORE/Foundations": "enabled"
+      "CORE/Foundations": "enabled",
+      "BRANDS/EDU/MODES/LIGHT/Light": "disabled",
+      "BRANDS/EDU/MODES/DARK/Dark": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:539:23492",
     "$figmaModeId": "539:0",
@@ -452,10 +454,11 @@
       "ads.border.white4ever": "S:f7ea1b0399c86914c5d9a4bae337f50e24be0d6a,"
     },
     "selectedTokenSets": {
-      "BRANDS/EDU/Modes/Light": "enabled",
       "BRANDS/EDU/Base": "source",
       "CORE/Primitives": "source",
-      "CORE/Foundations": "enabled"
+      "CORE/Foundations": "enabled",
+      "BRANDS/EDU/MODES/LIGHT/Light": "enabled",
+      "BRANDS/EDU/MODES/DARK/Dark": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:539:23493",
     "$figmaModeId": "539:1",
@@ -593,7 +596,8 @@
       "CORE/Primitives": "source",
       "CORE/Foundations": "enabled",
       "BRANDS/EDU/Base": "enabled",
-      "BRANDS/EDU/Modes/Dark": "enabled"
+      "BRANDS/EDU/MODES/LIGHT/Light": "disabled",
+      "BRANDS/EDU/MODES/DARK/Dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:539:23493",
     "$figmaModeId": "539:2",

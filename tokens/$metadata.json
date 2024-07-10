@@ -3,7 +3,7 @@
     "CORE/Primitives",
     "CORE/Foundations",
     "BRANDS/EDU/Base",
-    "BRANDS/EDU/Modes/Light",
-    "BRANDS/EDU/Modes/Dark"
+    "BRANDS/EDU/MODES/LIGHT/Light",
+    "BRANDS/EDU/MODES/DARK/Dark"
   ]
 }
