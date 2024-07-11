@@ -4,6 +4,9 @@
     "CORE/Foundations",
     "BRANDS/EDU/Base",
     "BRANDS/EDU/MODES/LIGHT/Light",
-    "BRANDS/EDU/MODES/DARK/Dark"
+    "BRANDS/EDU/MODES/DARK/Dark",
+    "BRANDS/BANCAR/Base",
+    "BRANDS/BANCAR/MODES/LIGHT/Light",
+    "BRANDS/BANCAR/MODES/DARK/Dark"
   ]
 }
