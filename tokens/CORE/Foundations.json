@@ -2,350 +2,350 @@
   "ads": {
     "rounded": {
       "none": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.0}"
+        "value": "{ads.dimension.0}",
+        "type": "borderRadius"
       },
       "sm": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.2}"
+        "value": "{ads.dimension.2}",
+        "type": "borderRadius"
       },
       "rounded": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.4}"
+        "value": "{ads.dimension.4}",
+        "type": "borderRadius"
       },
       "md": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.6}"
+        "value": "{ads.dimension.6}",
+        "type": "borderRadius"
       },
       "lg": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.8}"
+        "value": "{ads.dimension.8}",
+        "type": "borderRadius"
       },
       "xl": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.12}"
+        "value": "{ads.dimension.12}",
+        "type": "borderRadius"
       },
       "2xl": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.16}"
+        "value": "{ads.dimension.16}",
+        "type": "borderRadius"
       },
       "3xl": {
-        "type": "borderRadius",
-        "value": "{ads.dimension.24}"
+        "value": "{ads.dimension.24}",
+        "type": "borderRadius"
       },
       "full": {
-        "type": "borderRadius",
-        "value": "9999"
+        "value": "9999",
+        "type": "borderRadius"
       }
     },
     "text": {
       "base": {
-        "type": "fontSizes",
-        "value": "1rem"
+        "value": "1rem",
+        "type": "fontSizes"
       },
       "xs": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*0.75"
+        "value": "{ads.text.base}*0.75",
+        "type": "fontSizes"
       },
       "sm": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*0.875"
+        "value": "{ads.text.base}*0.875",
+        "type": "fontSizes"
       },
       "lg": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*1.125"
+        "value": "{ads.text.base}*1.125",
+        "type": "fontSizes"
       },
       "xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*1.25"
+        "value": "{ads.text.base}*1.25",
+        "type": "fontSizes"
       },
       "2xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*1.5"
+        "value": "{ads.text.base}*1.5",
+        "type": "fontSizes"
       },
       "3xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*1.875"
+        "value": "{ads.text.base}*1.875",
+        "type": "fontSizes"
       },
       "4xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*2.25"
+        "value": "{ads.text.base}*2.25",
+        "type": "fontSizes"
       },
       "5xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*3"
+        "value": "{ads.text.base}*3",
+        "type": "fontSizes"
       },
       "6xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*3.75"
+        "value": "{ads.text.base}*3.75",
+        "type": "fontSizes"
       },
       "7xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*4.5"
+        "value": "{ads.text.base}*4.5",
+        "type": "fontSizes"
       },
       "8xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*6"
+        "value": "{ads.text.base}*6",
+        "type": "fontSizes"
       },
       "9xl": {
-        "type": "fontSizes",
-        "value": "{ads.text.base}*8"
+        "value": "{ads.text.base}*8",
+        "type": "fontSizes"
       }
     },
     "modifier": {
       "amount": {
         "0": {
-          "type": "other",
-          "value": "0.032"
+          "value": "0.032",
+          "type": "other"
         },
         "1": {
-          "type": "other",
-          "value": "0.048"
+          "value": "0.048",
+          "type": "other"
         },
         "2": {
-          "type": "other",
-          "value": "0.064"
+          "value": "0.064",
+          "type": "other"
         },
         "3": {
-          "type": "other",
-          "value": "0.12"
+          "value": "0.12",
+          "type": "other"
         },
         "4": {
-          "type": "other",
-          "value": "0.24"
+          "value": "0.24",
+          "type": "other"
         },
         "5": {
-          "type": "other",
-          "value": "0.40"
+          "value": "0.40",
+          "type": "other"
         },
         "6": {
-          "type": "other",
-          "value": "0.64"
+          "value": "0.64",
+          "type": "other"
         },
         "7": {
-          "type": "other",
-          "value": "0.72"
+          "value": "0.72",
+          "type": "other"
         },
         "8": {
-          "type": "other",
-          "value": "0.84"
+          "value": "0.84",
+          "type": "other"
         },
         "9": {
+          "value": "0.92",
+          "type": "other",
           "$extensions": {
             "studio.tokens": {
               "modify": {}
             }
-          },
-          "type": "other",
-          "value": "0.92"
+          }
         }
       }
     },
     "state": {
       "amount": {
         "hover": {
-          "type": "other",
-          "value": "{ads.modifier.amount.4}"
+          "value": "{ads.modifier.amount.4}",
+          "type": "other"
         },
         "selected": {
-          "type": "other",
-          "value": "{ads.modifier.amount.3}"
+          "value": "{ads.modifier.amount.3}",
+          "type": "other"
         },
         "focus": {
-          "type": "other",
-          "value": "{ads.modifier.amount.2}"
+          "value": "{ads.modifier.amount.2}",
+          "type": "other"
         }
       },
       "disabled": {
-        "type": "opacity",
-        "value": ".5"
+        "value": ".5",
+        "type": "opacity"
       },
       "enabled": {
-        "type": "opacity",
-        "value": "1"
+        "value": "1",
+        "type": "opacity"
       },
       "neutral": {
         "amount": {
           "hover": {
-            "type": "other",
-            "value": "{ads.modifier.amount.0}"
+            "value": "{ads.modifier.amount.0}",
+            "type": "other"
           },
           "selected": {
-            "type": "other",
-            "value": "{ads.modifier.amount.1}"
+            "value": "{ads.modifier.amount.1}",
+            "type": "other"
           },
           "focus": {
-            "type": "other",
-            "value": "{ads.modifier.amount.2}"
+            "value": "{ads.modifier.amount.2}",
+            "type": "other"
           }
         }
       }
     },
     "opacity": {
       "transparent": {
+        "value": "0",
+        "type": "opacity",
         "$extensions": {
           "studio.tokens": {
             "modify": {}
           }
-        },
-        "type": "opacity",
-        "value": "0"
+        }
       },
       "xs": {
-        "type": "opacity",
-        "value": ".16"
+        "value": ".16",
+        "type": "opacity"
       },
       "sm": {
-        "type": "opacity",
-        "value": ".24"
+        "value": ".24",
+        "type": "opacity"
       },
       "md": {
-        "type": "opacity",
-        "value": ".5"
+        "value": ".5",
+        "type": "opacity"
       },
       "lg": {
-        "type": "opacity",
-        "value": ".64"
+        "value": ".64",
+        "type": "opacity"
       },
       "xl": {
-        "type": "opacity",
-        "value": ".72"
+        "value": ".72",
+        "type": "opacity"
       }
     },
     "spacing": {
       "0": {
-        "type": "spacing",
-        "value": "{ads.dimension.0}"
+        "value": "{ads.dimension.0}",
+        "type": "spacing"
       },
       "xs": {
-        "type": "spacing",
-        "value": "{ads.dimension.2}"
+        "value": "{ads.dimension.2}",
+        "type": "spacing"
       },
       "sm": {
-        "type": "spacing",
-        "value": "{ads.dimension.4}"
+        "value": "{ads.dimension.4}",
+        "type": "spacing"
       },
       "md": {
-        "type": "spacing",
-        "value": "{ads.dimension.6}"
+        "value": "{ads.dimension.6}",
+        "type": "spacing"
       },
       "lg": {
-        "type": "spacing",
-        "value": "{ads.dimension.8}"
+        "value": "{ads.dimension.8}",
+        "type": "spacing"
       },
       "xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.12}"
+        "value": "{ads.dimension.12}",
+        "type": "spacing"
       },
       "2xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.16}"
+        "value": "{ads.dimension.16}",
+        "type": "spacing"
       },
       "3xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.20}"
+        "value": "{ads.dimension.20}",
+        "type": "spacing"
       },
       "4xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.24}"
+        "value": "{ads.dimension.24}",
+        "type": "spacing"
       },
       "5xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.28}"
+        "value": "{ads.dimension.28}",
+        "type": "spacing"
       },
       "6xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.32}"
+        "value": "{ads.dimension.32}",
+        "type": "spacing"
       },
       "7xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.36}"
+        "value": "{ads.dimension.36}",
+        "type": "spacing"
       },
       "8xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.40}"
+        "value": "{ads.dimension.40}",
+        "type": "spacing"
       },
       "9xl": {
-        "type": "spacing",
-        "value": "{ads.dimension.48}"
+        "value": "{ads.dimension.48}",
+        "type": "spacing"
       }
     },
     "font": {
       "thin": {
-        "type": "fontWeights",
-        "value": "Thin"
+        "value": "100",
+        "type": "fontWeights"
       },
       "extralight": {
-        "type": "fontWeights",
-        "value": "Extra Light"
+        "value": "200",
+        "type": "fontWeights"
       },
       "light": {
-        "type": "fontWeights",
-        "value": "Light"
+        "value": "300",
+        "type": "fontWeights"
       },
       "regular": {
-        "type": "fontWeights",
-        "value": "Regular"
+        "value": "400",
+        "type": "fontWeights"
       },
       "medium": {
-        "type": "fontWeights",
-        "value": "Medium"
+        "value": "500",
+        "type": "fontWeights"
       },
       "semibold": {
-        "type": "fontWeights",
-        "value": "Semi Bold"
+        "value": "600",
+        "type": "fontWeights"
       },
       "bold": {
-        "type": "fontWeights",
-        "value": "Bold"
+        "value": "700",
+        "type": "fontWeights"
       },
       "extrabold": {
-        "type": "fontWeights",
-        "value": "Extra Bold"
+        "value": "800",
+        "type": "fontWeights"
       },
       "black": {
-        "type": "fontWeights",
-        "value": "Black"
+        "value": "900",
+        "type": "fontWeights"
       }
     },
     "leading": {
       "none": {
-        "type": "lineHeights",
-        "value": "100%"
+        "value": "100%",
+        "type": "lineHeights"
       },
       "tight": {
-        "type": "lineHeights",
-        "value": "125%"
+        "value": "125%",
+        "type": "lineHeights"
       },
       "snug": {
-        "type": "lineHeights",
-        "value": "140%"
+        "value": "140%",
+        "type": "lineHeights"
       },
       "normal": {
-        "type": "lineHeights",
-        "value": "150%"
+        "value": "150%",
+        "type": "lineHeights"
       },
       "relaxed": {
-        "type": "lineHeights",
-        "value": "160%"
+        "value": "160%",
+        "type": "lineHeights"
       },
       "loose": {
-        "type": "lineHeights",
-        "value": "200%"
+        "value": "200%",
+        "type": "lineHeights"
       }
     },
     "font-family": {
       "inter": {
-        "type": "fontFamilies",
-        "value": "Inter"
+        "value": "Inter",
+        "type": "fontFamilies"
       },
       "raleway": {
-        "type": "fontFamilies",
-        "value": "Raleway"
+        "value": "Raleway",
+        "type": "fontFamilies"
       },
       "switzer": {
-        "type": "fontFamilies",
-        "value": "Switzer"
+        "value": "Switzer",
+        "type": "fontFamilies"
       }
     }
   }

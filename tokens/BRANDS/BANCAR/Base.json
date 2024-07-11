@@ -4,353 +4,353 @@
       "brand": {
         "primary": {
           "50": {
-            "type": "color",
-            "value": "#F3ECF8"
+            "value": "#F3ECF8",
+            "type": "color"
           },
           "100": {
-            "type": "color",
-            "value": "#EADDF3"
+            "value": "#EADDF3",
+            "type": "color"
           },
           "200": {
-            "type": "color",
-            "value": "#D2B7E6"
+            "value": "#D2B7E6",
+            "type": "color"
           },
           "300": {
-            "type": "color",
-            "value": "#BD95DA"
+            "value": "#BD95DA",
+            "type": "color"
           },
           "400": {
-            "type": "color",
-            "value": "#A66FCD"
+            "value": "#A66FCD",
+            "type": "color"
           },
           "500": {
-            "type": "color",
-            "value": "#914EC1"
+            "value": "#914EC1",
+            "type": "color"
           },
           "600": {
-            "type": "color",
-            "value": "#74389F"
+            "value": "#74389F",
+            "type": "color"
           },
           "700": {
-            "type": "color",
-            "value": "#582A79"
+            "value": "#582A79",
+            "type": "color"
           },
           "800": {
-            "type": "color",
-            "value": "#3A1C4F"
+            "value": "#3A1C4F",
+            "type": "color"
           },
           "900": {
-            "type": "color",
-            "value": "#1E0F2A"
+            "value": "#1E0F2A",
+            "type": "color"
           },
           "950": {
-            "type": "color",
-            "value": "#0E0713"
+            "value": "#0E0713",
+            "type": "color"
           }
         },
         "secondary": {
           "50": {
-            "type": "color",
-            "value": "#EDEDFD"
+            "value": "#EDEDFD",
+            "type": "color"
           },
           "100": {
-            "type": "color",
-            "value": "#D6D6FA"
+            "value": "#D6D6FA",
+            "type": "color"
           },
           "200": {
-            "type": "color",
-            "value": "#B1B2F6"
+            "value": "#B1B2F6",
+            "type": "color"
           },
           "300": {
-            "type": "color",
-            "value": "#8889F2"
+            "value": "#8889F2",
+            "type": "color"
           },
           "400": {
-            "type": "color",
-            "value": "#5E61ED"
+            "value": "#5E61ED",
+            "type": "color"
           },
           "500": {
-            "type": "color",
-            "value": "#383BE9"
+            "value": "#383BE9",
+            "type": "color"
           },
           "600": {
-            "type": "color",
-            "value": "#171ACF"
+            "value": "#171ACF",
+            "type": "color"
           },
           "700": {
-            "type": "color",
-            "value": "#11149C"
+            "value": "#11149C",
+            "type": "color"
           },
           "800": {
-            "type": "color",
-            "value": "#0C0D6A"
+            "value": "#0C0D6A",
+            "type": "color"
           },
           "900": {
-            "type": "color",
-            "value": "#060633"
+            "value": "#060633",
+            "type": "color"
           },
           "950": {
-            "type": "color",
-            "value": "#03031C"
+            "value": "#03031C",
+            "type": "color"
           }
         }
       }
     },
     "display": {
       "sm": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.4xl}",
           "lineHeight": "{ads.leading.tight}"
-        }
+        },
+        "type": "typography"
       },
       "md": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.5xl}",
           "lineHeight": "{ads.leading.tight}"
-        }
+        },
+        "type": "typography"
       },
       "lg": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.6xl}",
           "lineHeight": "{ads.leading.tight}"
-        }
+        },
+        "type": "typography"
       },
       "xl": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.7xl}",
           "lineHeight": "{ads.leading.tight}"
-        }
+        },
+        "type": "typography"
       }
     },
     "font": {
       "sans": {
+        "value": "{ads.font-family.switzer}",
+        "type": "fontFamilies",
         "$extensions": {
           "studio.tokens": {
             "modify": {}
           }
-        },
-        "type": "fontFamilies",
-        "value": "{ads.font-family.switzer}"
+        }
       }
     },
     "heading": {
       "sm": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.xl}",
           "lineHeight": "{ads.leading.snug}"
-        }
-      },
-      "md": {
+        },
+        "type": "typography",
         "$extensions": {
           "studio.tokens": {
             "modify": {}
           }
-        },
-        "type": "typography",
+        }
+      },
+      "md": {
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.2xl}",
           "lineHeight": "{ads.leading.snug}"
-        }
-      },
-      "lg": {
+        },
+        "type": "typography",
         "$extensions": {
           "studio.tokens": {
             "modify": {}
           }
-        },
-        "type": "typography",
+        }
+      },
+      "lg": {
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.3xl}",
           "lineHeight": "{ads.leading.tight}"
-        }
-      },
-      "xl": {
+        },
+        "type": "typography",
         "$extensions": {
           "studio.tokens": {
             "modify": {}
           }
-        },
-        "type": "typography",
+        }
+      },
+      "xl": {
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.4xl}",
           "lineHeight": "{ads.leading.tight}"
+        },
+        "type": "typography",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
         }
       }
     },
     "body": {
       "xs": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.regular}",
           "fontSize": "{ads.text.xs}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "sm": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.regular}",
           "fontSize": "{ads.text.sm}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "md": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.regular}",
           "fontSize": "{ads.text.base}",
           "lineHeight": "{ads.leading.normal}"
-        }
+        },
+        "type": "typography"
       },
       "lg": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.regular}",
           "fontSize": "{ads.text.lg}",
           "lineHeight": "{ads.leading.normal}"
-        }
+        },
+        "type": "typography"
       }
     },
     "label": {
       "xs": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.medium}",
           "fontSize": "{ads.text.xs}",
           "lineHeight": "{ads.leading.snug}"
+        },
+        "type": "typography",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
         }
       },
       "xs__alt": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.xs}",
           "lineHeight": "{ads.leading.snug}"
+        },
+        "type": "typography",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
         }
       },
       "sm": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.medium}",
           "fontSize": "{ads.text.sm}",
           "lineHeight": "{ads.leading.snug}"
+        },
+        "type": "typography",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
         }
       },
       "sm__alt": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.sm}",
           "lineHeight": "{ads.leading.snug}"
+        },
+        "type": "typography",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
         }
       },
       "md": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.medium}",
           "fontSize": "{ads.text.base}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "md__alt": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.base}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "lg": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.medium}",
           "fontSize": "{ads.text.lg}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "lg__alt": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.lg}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "xl": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.medium}",
           "fontSize": "{ads.text.xl}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       },
       "xl__alt": {
-        "type": "typography",
         "value": {
           "fontFamily": "{ads.font.sans}",
           "fontWeight": "{ads.font.semibold}",
           "fontSize": "{ads.text.xl}",
           "lineHeight": "{ads.leading.snug}"
-        }
+        },
+        "type": "typography"
       }
     }
   }
