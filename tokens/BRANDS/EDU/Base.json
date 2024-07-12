@@ -136,10 +136,8 @@
     },
     "font": {
       "sans": {
-        "inter": {
-          "value": "{ads.font-family.inter}",
-          "type": "fontFamilies"
-        }
+        "value": "{ads.font-family.inter}",
+        "type": "fontFamilies"
       }
     },
     "heading": {
