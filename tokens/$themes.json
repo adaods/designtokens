@@ -2,13 +2,12 @@
   {
     "id": "147a650f6032bcc81a2497ccd4d7e20681c8d20b",
     "name": "Value",
-    "$figmaStyleReferences": {},
+    "group": "Foundation",
     "selectedTokenSets": {
       "CORE/Primitives": "source",
       "CORE/Foundations": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:944:5455",
-    "$figmaModeId": "944:34",
+    "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "ads.rounded.none": "ba4f233acb3126405db8ae5a52779e394edcb72d",
       "ads.rounded.sm": "8889705b6b4da234bb653bc0a8fc09672e931912",
@@ -34,19 +33,19 @@
       "ads.spacing.8xl": "960a1d05759516da437e8f05232febb52b513ad9",
       "ads.spacing.9xl": "8e7d8c4640651c36c564a4854f4ce89ee5cb3587"
     },
-    "group": "Foundation"
+    "$figmaCollectionId": "VariableCollectionId:944:5455",
+    "$figmaModeId": "944:34"
   },
   {
     "id": "9b4b806f9a11853087c565f9d72fe67f311443bc",
     "name": "Light",
-    "$figmaStyleReferences": {},
+    "group": "EDU",
     "selectedTokenSets": {
       "BRANDS/EDU/Base": "source",
       "BRANDS/EDU/MODES/LIGHT/Light": "enabled",
       "CORE/Primitives": "source"
     },
-    "$figmaCollectionId": "VariableCollectionId:944:5758",
-    "$figmaModeId": "944:35",
+    "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "ads.bg.background.default": "48116567323286341147140126b0ba851cca2292",
       "ads.bg.background.hover": "c4096ff20b51a5dc1fd398a4c17a9b233b580019",
@@ -125,19 +124,19 @@
       "ads.border.warning": "915eb2e48ad6b94d398f1ffe82eab74f9e3080a4",
       "ads.border.info": "5f17218f1a0ba9cd7054bd7d4067bf5eec61c8f0"
     },
-    "group": "EDU"
+    "$figmaCollectionId": "VariableCollectionId:944:5758",
+    "$figmaModeId": "944:35"
   },
   {
     "id": "afc11606f1271fca2d451ed02b723753cd60f20a",
     "name": "Dark",
-    "$figmaStyleReferences": {},
+    "group": "EDU",
     "selectedTokenSets": {
       "BRANDS/EDU/Base": "source",
       "BRANDS/EDU/MODES/DARK/Dark": "enabled",
       "CORE/Primitives": "source"
     },
-    "$figmaCollectionId": "VariableCollectionId:944:5758",
-    "$figmaModeId": "944:36",
+    "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "ads.bg.background.default": "48116567323286341147140126b0ba851cca2292",
       "ads.bg.background.hover": "c4096ff20b51a5dc1fd398a4c17a9b233b580019",
@@ -216,20 +215,19 @@
       "ads.border.warning": "915eb2e48ad6b94d398f1ffe82eab74f9e3080a4",
       "ads.border.info": "5f17218f1a0ba9cd7054bd7d4067bf5eec61c8f0"
     },
-    "group": "EDU"
+    "$figmaCollectionId": "VariableCollectionId:944:5758",
+    "$figmaModeId": "944:36"
   },
   {
     "id": "4a9d6c27b93062eed7e3e05cb83a831481f03625",
     "name": "Light",
-    "$figmaStyleReferences": {},
+    "group": "BANCAR",
     "selectedTokenSets": {
       "CORE/Primitives": "source",
       "BRANDS/BANCAR/Base": "source",
       "BRANDS/BANCAR/MODES/LIGHT/Light": "enabled"
     },
-    "group": "BANCAR",
-    "$figmaCollectionId": "VariableCollectionId:944:5835",
-    "$figmaModeId": "944:37",
+    "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "ads.bg.background.default": "a50f315dd1d437cfd4cd0d7648abe2251e570266",
       "ads.bg.background.hover": "c379c7db542a44784a8339ce313518543fe55eb6",
@@ -307,20 +305,20 @@
       "ads.border.destructive": "a168a279c26a193d8bd95aaa4151216878f72437",
       "ads.border.warning": "f82335e1d6761c1ae5885f797e43f8b87252b1a7",
       "ads.border.info": "939a3135075d87519cde48ea1b82e093857e46d3"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:944:5835",
+    "$figmaModeId": "944:37"
   },
   {
     "id": "de7d38437fedf6031c3e9aba03c74c3379602d3d",
     "name": "Dark",
-    "$figmaStyleReferences": {},
+    "group": "BANCAR",
     "selectedTokenSets": {
       "CORE/Primitives": "source",
       "BRANDS/BANCAR/Base": "source",
       "BRANDS/BANCAR/MODES/DARK/Dark": "enabled"
     },
-    "group": "BANCAR",
-    "$figmaCollectionId": "VariableCollectionId:944:5835",
-    "$figmaModeId": "944:38",
+    "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "ads.bg.background.default": "a50f315dd1d437cfd4cd0d7648abe2251e570266",
       "ads.bg.background.hover": "c379c7db542a44784a8339ce313518543fe55eb6",
@@ -398,6 +396,21 @@
       "ads.border.destructive": "a168a279c26a193d8bd95aaa4151216878f72437",
       "ads.border.warning": "f82335e1d6761c1ae5885f797e43f8b87252b1a7",
       "ads.border.info": "939a3135075d87519cde48ea1b82e093857e46d3"
-    }
+    },
+    "$figmaCollectionId": "VariableCollectionId:944:5835",
+    "$figmaModeId": "944:38"
+  },
+  {
+    "id": "285662b889c55ae580c95dd069c170f9699f0bcc",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "BRANDS/MOTORHEAD/MODES": "enabled",
+      "BRANDS/MOTORHEAD/MODES/LIGHT": "enabled",
+      "BRANDS/MOTORHEAD/MODES/LIGHT/Light": "enabled",
+      "BRANDS/MOTORHEAD/MODES/DARK": "enabled",
+      "BRANDS/MOTORHEAD/Base": "source"
+    },
+    "group": "MOTORHEAD"
   }
 ]
