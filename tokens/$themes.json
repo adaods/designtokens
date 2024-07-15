@@ -405,10 +405,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "BRANDS/MOTORHEAD/MODES": "enabled",
-      "BRANDS/MOTORHEAD/MODES/LIGHT": "enabled",
       "BRANDS/MOTORHEAD/MODES/LIGHT/Light": "enabled",
-      "BRANDS/MOTORHEAD/MODES/DARK": "enabled",
       "BRANDS/MOTORHEAD/Base": "source"
     },
     "group": "MOTORHEAD"
