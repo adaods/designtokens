@@ -15,7 +15,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{ads.primitive.Gray.800}",
+          "value": "{ads.primitive.Gray.900}",
           "type": "color"
         }
       },
